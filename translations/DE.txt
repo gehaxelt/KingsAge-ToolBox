@@ -1,0 +1,203 @@
+<!-- =================================================== Allgemeines -->
+
+<tit_move>bewegen</tit_move>
+<bt_apply>Übernehmen</bt_apply>
+<bt_save>Speichern</bt_save>
+<bt_hide>X</bt_hide>
+<bt_add>Ok</bt_add>
+<bt_send>Senden</bt_send>
+
+<tit_active>aktiviert</tit_active>
+<al_empty>Bitte fülle die leeren Felder aus</al_empty>
+
+<tit_button>Button</tit_button>
+<tit_insert>Kommentar hier schreiben</tit_insert>
+
+<!-- =================================================== Voreinstellungen -->
+
+<tit_settings>Einstellungen</tit_settings>
+
+<tit_presettings>Voreinstellungen</tit_presettings>
+
+<lang_tit>Sprachwahl</lang_tit>
+<lang_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Überall</lang_dest>
+<lang_info>Wähle deine Sprache aus</lang_info>
+
+<!-- -->
+<premium_tit>Premiumaccount</premium_tit>
+<premium_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Überall</premium_dest>
+<premium_info>Aktiviere diese Option (nur), wenn du einen Premiumaccount nutzt.</premium_info>
+
+<lang>DE</lang>
+
+<!-- =================================================== Fenster -->
+
+<tit_moveable_windows>Bewegliche Fenster</tit_moveable_windows>
+
+<notepad_tit>Notizblock</notepad_tit>
+<notepad_dest>Bewegliches Zusatzfenster</notepad_dest>
+<notepad_info>Hier kannst du Notizen auf bis zu zehn Seiten speichern. Der Notizblock ist BB-Code fähig. Ein Klick auf das Stift-Symbol aktiviert den Edit-Modus, der Klick auf das Augen-Symbol wechselt zurück in den Lesemodus.</notepad_info>
+
+<!-- -->
+<chat_tit>Chat</chat_tit>
+<chat_dest>Bewegliches Zusatzfenster</chat_dest>
+<chat_info>Der weltweite Chat mit Kingsage-Nutzern. Zur besseren Übersicht gibt es verschiedene Chat-Räume.</chat_info>
+
+<tit_liable>Der Chatautor übernimmt keine Haftung für den erscheinenden Text.</tit_liable>
+
+<!-- -->
+<countdown_tit>Countdown</countdown_tit>
+<countdown_dest>Bewegliches Zusatzfenster</countdown_dest>
+<countdown_info>Lege eine Liste frei konfigurierbarer Countdowns an, z.B., um die Zeit vor einem Angriff herunter zählen zu lassen.<br />Einträge werden im Format Monat/Tag/Stunde/Minute/Sekunde vorgenommen.</countdown_info>
+
+<tit_wrong_countdown>Kein Text eingegeben oder falsche Zeitangabe.</tit_wrong_countdown>
+<tit_month>Monat</tit_month>
+<tit_day>Tag</tit_day>
+<tit_hour>Stunde</tit_hour>
+<tit_min>Minute</tit_min>
+<tit_sec>Sekunde</tit_sec>
+<tit_end>abgelaufen</tit_end>
+
+<!-- -->
+<runtime_tit>Laufzeitenrechner</runtime_tit>
+<runtime_dest>Bewegliches Zusatzfenster</runtime_dest>
+<runtime_info>Berechne Laufzeiten deiner Truppen zwischen zwei Siedlungen in einem separaten Fenster. Nur mit Premiumaccount nutzbar.</runtime_info>
+
+<bt_calc>Berechnen</bt_calc>
+
+<!-- -->
+<multimarket_tit>Multimarkt</multimarket_tit>
+<multimarket_dest>Bewegliches Zusatzfenster</multimarket_dest>
+<multimarket_info>Verschicke automatisiert Rohstoffe aus einer ausgewählten Siedlung an eine Zielsiedlung deiner Wahl.<br />Das Einlesen deiner Siedlungen erfolgt auf der Profilseite. Nach Anklicken des Reiters „Profil“ erscheint ein Link mit der Aufschrift „Multimarkt aktualisieren“. Nach einem Klick darauf, ist der Multimarkt aktualisiert.</multimarket_info>
+
+<bt_update>Multimarkt aktualisieren</bt_update>
+<bt_mm_all>Alle</bt_mm_all>
+<bt_mm_none>Keine</bt_mm_none>
+<tit_dorf>Siedlungsname</tit_dorf>
+
+<!-- =================================================== Buttons -->
+
+<tit_extra_buttons>Zusätzliche Buttons</tit_extra_buttons>
+
+<extrabuttons_tit>Zusätzliche Buttons</extrabuttons_tit>
+<extrabuttons_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Übersichten</extrabuttons_dest>
+<extrabuttons_info>Wähle für die Übersichten bis zu neun Zusatz-Buttons aus, um mit einem Klick direkt zum Ziel zu gelangen. Die Reihenfolge, Art und Anzahl der Buttons sind frei auswählbar. Nur mit Premiumaccount nutzbar.</extrabuttons_info>
+
+<extrabuttonsorder_tit>Reihenfolge</extrabuttonsorder_tit>
+<extrabuttonsorder_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png'><img src='http://www.kingsage.de/img/arrow_right_raquo.png'> Übersichten <img src='http://www.kingsage.de/img/arrow_right_raquo.png'> Zusätzliche Buttons</extrabuttonsorder_dest>
+<extrabuttonsorder_info>Wähle Buttons aus und lege so deine Reihenfolge fest.</extrabuttonsorder_info>
+
+<extrabuttonstab_tit>Zusätzliche Buttons in neuem Tab öffnen</extrabuttonstab_tit>
+<extrabuttonstab_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Übersicht <img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Zusätzliche Buttons</extrabuttonstab_dest>
+<extrabuttonstab_info>Aktiviere diese Funktion, um mit Klick auf einen zusätzlichen Button einen neuen Browser-Tab zu öffnen.</extrabuttonstab_info>
+
+<op_burg>Burg</op_burg>
+<op_markt>Markt</op_markt>
+<op_markta>Markt Annehmen</op_markta>
+<op_bar>Kaserne Befehle</op_bar>
+<op_baraus>Kaserne Ausbildung</op_baraus>
+<op_barfor>Kaserne Forschung</op_barfor>
+<op_snob>Residenz</op_snob>
+<op_gold>Goldschmiede</op_gold>
+<op_map>Karte</op_map>
+<op_none>Kein</op_none>
+
+<!-- =================================================== Funktionen -->
+
+<tit_functions>Funktionen</tit_functions>
+
+<highlighter_tit>Siedlungen hervorheben</highlighter_tit>
+<highlighter_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Übersichten <img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Produktion, Truppen</highlighter_dest>
+<highlighter_info>Angegriffene und/oder unterstützte Siedlungen werden in verschiedenen Farben hervorgehoben (Angriff: Rot, Unterstützung: Grün, Angriff mit Unterstützung: Blau).</highlighter_info>
+
+<!-- -->
+<messagesaver_tit>Nachrichten und Berichte speichern</messagesaver_tit>
+<messagesaver_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Nachrichten &amp; Berichte / Tools</messagesaver_dest>
+<messagesaver_info>Speichere Nachrichten und Berichte dauerhaft mit einem Klick. In den „Tools“ von Kingsage kannst du die gespeicherten Nachrichten und Berichte lesen und verwalten.</messagesaver_info>
+
+<tit_message>Nachricht</tit_message>
+<tit_report>Bericht</tit_report>
+<bt_savereport>Bericht speichern</bt_savereport>
+<bt_savemessage>Nachricht speichern</bt_savemessage>
+<bt_showreports>Berichte anzeigen</bt_showreports>
+<bt_showmessages>Nachrichten anzeigen</bt_showmessages>
+<bt_deletemessages>Nachricht löschen</bt_deletemessages>
+<bt_deletereports>Bericht löschen</bt_deletereports>
+<al_stringerror>Der Text ist zu lang oder leer. Erlaubt sind maximal 65 Zeichen.</al_stringerror>
+<al_savedmessage>Nachricht gespeichert</al_savedmessage>
+<al_savedreport>Bericht gespeichert.</al_savedreport>
+<al_deletedmessages>Nachricht gelöscht</al_deletedmessages>
+<al_deletedreport>Bericht gelöscht</al_deletedreport>
+
+<!-- -->
+<villageinfo_tit>Minimap auf Siedlungs-Infoseite</villageinfo_tit>
+<villageinfo_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Karte <img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Siedlungs-Infoseite</villageinfo_dest>
+<villageinfo_info>Fügt jeder Informationsseite einer Siedlung eine Minimap hinzu (optimal bei der Karteneinstellung 9 x 9 Sektoren, 5 Pixel je Feld). Neben dem Namen des Besitzers befindet sich ein Brief-Symbol, um diesem Spieler direkt eine Nachricht zu schicken.</villageinfo_info>
+
+<tit_mapofregion>Region der Siedlung</tit_mapofregion>
+
+<!-- -->
+<notizbalken_tit>Notizbalken</notizbalken_tit>
+<notizbalken_dest>überall</notizbalken_dest>
+<notizbalken_info>Erzeugt für jede Siedlung die Möglichkeit, eine Notiz zu speichern.</notizbalken_info>
+
+<tit_entry>Eintrag</tit_entry>
+
+<!-- -->
+<calc_tit>Rekrutierungsrechner</calc_tit>
+<calc_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png'><img src='http://www.kingsage.de/img/arrow_right_raquo.png'> überblick <img src='http://www.kingsage.de/img/arrow_right_raquo.png'> Produktion, Truppen</calc_dest>
+<calc_info>Diese Funktion zeigt die benötigten Rohstoffe und Siedler vor der Rekrutierung an. Das Ergebnis findest du unter den Eingabefeldern.</calc_info>
+
+<tit_calctitel>Benötigte Rohstoffe</tit_calctitel>
+
+<!-- -->
+<fillin_tit>Ressourcen</fillin_tit>
+<fillin_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Markt <img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Rohstoffe verschicken</fillin_dest>
+<fillin_info>Trage per Klick eine Rohstoffmenge deiner Wahl ein. Die Koordinaten der zuletzt beschickten Siedlung sind per Klick abrufbar.</fillin_info>
+
+<tit_lastvil>Letzte Siedlung</tit_lastvil>
+
+<!-- -->
+<header_tit>Kopfbereich verstecken</header_tit>
+<header_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Überall</header_dest>
+<header_info>Blende den oberen Teil von Kingsage bis zur Menüleiste dauerhaft (Immer), oder nach Bedarf (Button) aus. Wirkt nicht bei der Karte.</header_info>
+
+<bt_hidetop>Kopfbereich verstecken</bt_hidetop>
+<tit_headeralways>Immer</tit_headeralways>
+<tit_headerbutton>Button</tit_headerbutton>
+
+<!-- =================================================== Spezielles -->
+
+<tit_special>Spezielles</tit_special>
+
+<worldmap_tit>Weltkarte</worldmap_tit>
+<worldmap_dest>Einstellungen</worldmap_dest>
+<worldmap_info>Der „Generieren“-Button erzeugt eine Weltkarte (aus Mini-Maps). Wichtig: Karteneinstellung - 9 x 9 Sektoren, 5 Pixel je Feld.</worldmap_info>
+
+<tit_genworldmap>Generieren</tit_genworldmap>
+<al_worldmap>Ist die Minimap 9x9 Felder mit 5px groß?</al_worldmap>
+
+<!-- -->
+<attackalarm_tit>Angriffsalarm</attackalarm_tit>
+<attackalarm_dest>Überall</attackalarm_dest>
+<attackalarm_info>Diese Funktion prüft, ob du angegriffen wirst. Sollte das der Fall sein, wird ein Alarm ausgelöst und eine Warnung angezeigt. Der Alarmton muss in den Einstellungen („Sound an“) erneut aktiviert werden, wenn die Angriffswarnung bestätigt wurde. (Achtung: Diese Funktion lädt deine aktuelle Seite alle 2 Minuten neu. Adobe-Flash muss aktiviert sein.)</attackalarm_info>
+
+<tit_sound>Sound an</tit_sound>
+<tit_stop_sound>Ich habe den Angriff bemerkt. Stoppe den Sound!</tit_stop_sound>
+
+<!-- =================================================== Informationen & Kontakt -->
+
+<tit_info_kontakt>Informationen & Kontakt</tit_info_kontakt>
+
+<translatedby>-</translatedby>
+<tit_contact>Kontakt</tit_contact>
+<tit_anzeigen>Anzeigen</tit_anzeigen>
+<bt_overview>Übersicht</bt_overview>
+
+<!-- ========================================= Version 3.54 ============== -->
+<use_kes>KES Userscript aktiv?</use_kes>
+<use_kes_tit>KES Userscript</use_kes_tit>
+<use_kes_viewcombined>Kombinierte Übersicht in den Übersichten</use_kes_viewcombined>
+<use_kes_info>Die neuste Version des KES Userscripts führt zu einer Kollision mit der ToolBox, sodass die Extrabuttons in den kombinierten Übersichten falsch dargestellt werden. Deaktiviere KES oder aktiviere diese Option, um die Scriptausführung der ToolBox in den kombinierten Übersichten zu unterlassen.</use_kes_info>
+<bt_reset>Zurücksetzen</bt_reset>
+<bt_reset_info>Alle Einstellungen zurücksetzen</bt_reset_info>

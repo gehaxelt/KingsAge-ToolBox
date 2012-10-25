@@ -1,0 +1,183 @@
+
+<!-- =================================================== general stuff -->
+
+<tit_move>Posunout</tit_move>
+<bt_apply>Použít</bt_apply>
+<bt_save>Uložit</bt_save>
+<bt_hide>X</bt_hide>
+<bt_add>Potvrdit</bt_add>
+<bt_send>Poslad</bt_send>
+<tit_active>Aktivovat</tit_active>
+<al_empty>Nìkteré vstupy jsou prázdné</al_empty>
+<tit_button>Tlaèítko</tit_button>
+<tit_insert>Napište svùj komentáø zde</tit_insert>
+
+<!-- =================================================== Preferences-->
+
+<tit_settings>Pøedvolby</tit_settings>
+<tit_presettings>Základní</tit_presettings>
+<lang_tit>Výbìr jazyka</lang_tit>
+<lang_dest>Všude</lang_dest>
+<lang_info>Vyberte svùj jazyk</lang_info>
+
+<!-- -->
+<premium_tit>Premium</premium_tit>
+<premium_dest> Všude</premium_dest>
+<premium_info> Vybavuje prémiové úèty s dalš?ími funkcemi. Nepoužívejte tuto funkci bez koupeného Premium.</premium_info>
+
+<lang>CZ</lang>
+
+<!-- =================================================== Windows -->
+
+<tit_moveable_windows>Pohyblivé okno</tit_moveable_windows>
+<notepad_tit>Zápisník</notepad_tit>
+<notepad_dest>Dodateèné pohyblivé okno</notepad_dest>
+<notepad_info>Poznámkový blok až deset stránek vèetnì BB-Code.Symbol tužky aktivuje režim úprav, kliknìte na symbol oka pøepne zpìt do režimu ètení</notepad_info>
+
+<!-- -->
+<chat_tit>Chat</chat_tit>
+<chat_dest>Dodateèné pohyblivé okno</chat_dest>
+<chat_info>Po celém svìtì chat s ostatními u?živateli KingsAge. Rùzné diskusní místnosti jsou k dispozici.</chat_info>
+<tit_liable>Autor chatu není zodpovìdný za text psaný hráèi v chatu.</tit_liable>
+
+<!-- -->
+<countdown_tit>Odpoèítavání</countdown_tit>
+<countdown_dest>Dodateèné pohyblivé okno</countdown_dest>
+<countdown_info>Použít volné seznamy snižování odpoèítávání.<br />
+Záznamy musí být formátovány jako mìsíc / den / hodina / minuta / sekunda.</countdown_info>
+<tit_wrong_countdown>Žadný zadaný text nebo platný formát èasu.</tit_wrong_countdown>
+<tit_month>Mìsíc</tit_month>
+<tit_day>Den</tit_day>
+<tit_hour>Hodina</tit_hour>
+<tit_min>Minuta</tit_min>
+<tit_sec>Sekunda</tit_sec>
+<tit_end>Potvrzeno</tit_end>
+
+<!-- -->
+<runtime_tit>Kalkulaèka</runtime_tit>
+<runtime_dest>Dodateèné pohyblivé okno</runtime_dest>
+<runtime_info>Vypoèítá èas chodu vaš?ich vojákù mezi dvìma destinacemi v samostatném oknì.Funkèní pouze s prémiovým úètem .</runtime_info>
+<bt_calc>Vypoèítat</bt_calc>
+
+<!-- -->
+<multimarket_tit>Multi-obchod</multimarket_tit>
+<multimarket_dest>Dodateèné pohyblivé okno</multimarket_dest>
+<multimarket_info>Pošle zdroje okam?itì z volnì volitelných vesnic do místa urèení, které chcete. Import a aktualizace pokraèuje na své stránce hráèe info. Kliknutím na odkaz "profil" otevírá dalš?í odkaz s nápisem "Aktualizace multi-obchod".Kliknutím na nìj aktualizuje seznam svých vesnic.</multimarket_info>
+<bt_update>Aktualizace Multi-obchodu</bt_update>
+<bt_mm_all>Vše</bt_mm_all>
+<bt_mm_none>Nic</bt_mm_none>
+<tit_dorf>Jméno vesnice</tit_dorf>
+
+<!-- =================================================== Buttons -->
+
+<tit_extra_buttons>Další tlaèítka</tit_extra_buttons>
+<extrabuttons_tit>Další tlaèítka</extrabuttons_tit>
+<extrabuttons_dest> Pøehledy</extrabuttons_dest>
+<extrabuttons_info>Zvolte až devìt tlaèítek pro dosažení cíle jedním kliknutím. Objednávka, druh a množství jsou volnì nastavitelné. Funkèní pouze s prémiovým úètem.</extrabuttons_info>
+<extrabuttonstab_tit>Otevøít nový cíl v nové zálož?ce</extrabuttonstab_tit>
+<extrabuttonstab_dest> Pøehledy Další tlaèítka</extrabuttonstab_dest>
+<extrabuttonstab_info>Aktivaci této funkce se otevøe nová záložka.</extrabuttonstab_info>
+<extrabuttonsorder_tit>Poøadí tlaèítek</extrabuttonsorder_tit>
+<extrabuttonsorder_dest> Pøehledy Další tlaèítka</extrabuttonsorder_dest>
+<extrabuttonsorder_info>Vyberte poøadí tlaèítek a jejich vzhledu.</extrabuttonsorder_info>
+<op_burg>Hrad</op_burg>
+<op_markt>Obchod</op_markt>
+<op_markta>Pøijmutí surovyn</op_markta>
+<op_bar>Kasárna-Rozkazy</op_bar>
+<op_baraus>Nábor</op_baraus>
+<op_barfor>Výzkum jednotek</op_barfor>
+<op_snob>Residence</op_snob>
+<op_gold>Zlatnictvý</op_gold>
+<op_map>Mapa</op_map>
+<op_none>Nic</op_none>
+
+<!-- =================================================== Functions -->
+
+<tit_functions>Funkce</tit_functions>
+<highlighter_tit>Zvýraznìná jména osad</highlighter_tit>
+<highlighter_dest> Pøehledy Produkce, Vojáci</highlighter_dest>
+<highlighter_info>Útoèník nebo podpora osady bude zvýraznìna rùznými barvami (útok: èervená, obrana pøíjezdu: zelená, Oba: modrá).</highlighter_info>
+
+<!-- -->
+<messagesaver_tit>Uložit zprávy & reporty</messagesaver_tit>
+<messagesaver_dest> Zprávy & Reporty / Nástroje</messagesaver_dest>
+<messagesaver_info>Uložit zprávy & reporty jedním kliknutím. Èíst a mazat je v "Nástroje" KingsAge.</messagesaver_info>
+<tit_message>Zpráva</tit_message>
+<tit_report>Report</tit_report>
+<bt_savereport>Uložit report</bt_savereport>
+<bt_savemessage>Uložit zprávu</bt_savemessage>
+<bt_showreports>Ukázat reporty</bt_showreports>
+<bt_showmessages>Ukázat zprávy</bt_showmessages><
+bt_deletemessages>Vymazat zprávu</bt_deletemessages>
+<bt_deletereports>Vymazat report</bt_deletereports>
+<al_stringerror>Text je pøíliš dlouhý nebo prázdný. 65 znakù max..</al_stringerror>
+<al_savedmessage>Zpráva uložena</al_savedmessage>
+<al_savedreport>Report uložen</al_savedreport>
+<al_deletedmessages>Zpráva vymazána</al_deletedmessages>
+<al_deletedreport>Report vymazán</al_deletedreport>
+
+<!-- -->
+<villageinfo_tit>Minimapa u informací k osadì</villageinfo_tit>
+<villageinfo_dest> Mapa Inormace o osadì </villageinfo_dest>
+<villageinfo_info>Dodává minimapu do stránky osady informace (funguje nejlépe s pøedvolbou 9 sektorù x 9, 5 Pixel).</villageinfo_info>
+<tit_mapofregion>Oblast osady</tit_mapofregion>
+
+<!-- -->
+<notizbalken_tit>Poznámka</notizbalken_tit>
+<notizbalken_dest>Všude</notizbalken_dest>
+<notizbalken_info>Pøidá možnost uvést s.th. pro kadou osadu.</notizbalken_info>
+<tit_entry>Zadat</tit_entry>
+
+<!-- -->
+<calc_tit>Nábor kalkulaèka</calc_tit>
+<calc_dest> Pøehledy Nábor</calc_dest>
+<calc_info>Tato funkce zobrazuje potøebné zdroje a osadníky pro nábor v dolní èásti stránky.</calc_info>
+<tit_calctitel>Potøebné zdroje</tit_calctitel>
+
+<!-- -->
+<fillin_tit>Zdroje</fillin_tit>
+<fillin_dest> Obchod Poslání zdrojù</fillin_dest>
+<fillin_info>Vyplní požadované mno?ství prostøedkù s jediným kliknutím, stejnì jako souøadnice které byly použity na posled.</fillin_info>
+<tit_lastvil>Poslední osada</tit_lastvil>
+
+<!-- -->
+<header_tit>Skrýt panel</header_tit>
+<header_dest> Všude(kromì na mapì)</header_dest>
+<header_info>Skrýt zbyteèný panel KingsAge stále ("Vždy") nebo pøípadnì ("Tlaèítko").</header_info>
+<bt_hidetop>Skrýt panel</bt_hidetop>
+<tit_headeralways>Vždy</tit_headeralways>
+<tit_headerbutton>Tlaèítko</tit_headerbutton>
+
+<!-- =================================================== Specials -->
+
+<tit_special>Special</tit_special>
+<worldmap_tit>Mapa svìta</worldmap_tit>
+<worldmap_dest>Pøedvolby nástroje </worldmap_dest>
+<worldmap_info>Vygenerovat kompletní mapu svìta slož?enou z mini-mapy (Dùležité: Nastavení mapy - 9 x 9 sektorù, 5 bodù na pole ).</worldmap_info>
+<tit_genworldmap>Vygenerovat</tit_genworldmap>
+<al_worldmap>Nastavili jste minimapu na 9 x 9 sektorù, 5 bodù na pole ?</al_worldmap>
+
+<!-- -->
+<attackalarm_tit>Poplach</attackalarm_tit>
+<attackalarm_dest>Všude</attackalarm_dest>
+<attackalarm_info>Akustické a optické varování se objeví v pøípadì útoku proti vám.Poplach tón má být reset ("Sound na") po ka?dém varování. (Pozor: Tato funkce znovu naète okno prohlžeèe každé dvì minuty Adobe Flash musí být nainstalován a povolen, stejnì jako zvukový systém)</attackalarm_info>
+<tit_sound>Zvuk zapnut</tit_sound>
+<tit_stop_sound>Všiml jsem si útoku. Zastavit zvuk.</tit_stop_sound>
+
+<!-- =================================================== Contact & Information-->
+
+<tit_info_kontakt>Informace & Kontakt</tit_info_kontakt>
+<translatedby>Marthas Lowecky</translatedby>
+<tit_anzeigen>Ukázat</tit_anzeigen>
+<tit_contact>noname95@seznam.cz</tit_contact>
+<bt_overview>Pøehled</bt_overview>
+
+<!-- ========================================= Version 3.54 ============== -->
+
+<use_kes>Using KES userscript?</use_kes>
+<use_kes_tit>KES userscript</use_kes_tit>
+<use_kes_viewcombined>Kombinovaný pohled v osadì pøehled</use_kes_viewcombined>
+<use_kes_info>Nejnovìjší verze KES userscript zpùsobí kolizi s panelem nástrojù v pøehledu kombinované zobrazení osady. Aby se tomu zabránilo, zakažte Kes a zkontrolujte následující pole, také ToolBox nebude generovat žádné tlaèítka v kombinovaných pøehledech</use_kes_info>
+<bt_reset>Obnovit vše</bt_reset>
+<bt_reset_info>Obnovit vše na základní hodnoty.</bt_reset_info>
+</code>

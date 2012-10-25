@@ -1,0 +1,195 @@
+﻿<!-- =================================================== general stuff -->
+
+<tit_move>Sposta</tit_move>
+<bt_apply>Applica</bt_apply>
+<bt_save>Salva</bt_save>
+<bt_hide>X</bt_hide>
+<bt_add>Ok</bt_add>
+<bt_send>Invia</bt_send>
+
+<tit_active>attiva</tit_active>
+<al_empty>Alcuni campi sono vuoti</al_empty>
+
+<tit_button>Bottone</tit_button>
+<tit_insert>Scivi un commento qui</tit_insert>
+
+<!-- =================================================== Preferences -->
+
+<tit_settings>Preferenze</tit_settings>
+
+<tit_presettings>Opzioni base</tit_presettings>
+
+<lang_tit>Seleziona lingua</lang_tit>
+<lang_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Ovunque</lang_dest>
+<lang_info>Seleziona la tua lingua</lang_info>
+
+<!-- -->
+<premium_tit>Account premium</premium_tit>
+<premium_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Ovunque</premium_dest>
+<premium_info> Aggiunge all' account premuim nuove funzionalità . Non attivare se non hai un acccount premium.</premium_info>
+
+<lang>EN</lang>
+
+<!-- =================================================== Windows -->
+
+<tit_moveable_windows>Nuove finestre</tit_moveable_windows>
+
+<notepad_tit>Blocco note</notepad_tit>
+<notepad_dest>Finestra mobile aggiuntiva</notepad_dest>
+<notepad_info>Il blocco note è composto da dieci pagine con bb-code . Il simbolo della matita apre la pagina su cui scrivere , un click sull' icona dell' occhio per leggere.</notepad_info>
+
+<!-- -->
+<chat_tit>Chat</chat_tit>
+<chat_dest>Finestra mobile aggiuntiva</chat_dest>
+<chat_info>Chat mondiale degli user di kingsage. Diverse stanze disponibili.</chat_info>
+
+<tit_liable>L' autore della chat declina ogni resposabilità di cosa si scrive.</tit_liable>
+
+<!-- -->
+<countdown_tit>Conto alla rovescia</countdown_tit>
+<countdown_dest>Finestra mobile aggiuntiva</countdown_dest>
+<countdown_info>Apre una lista di conti alla rovevescia .<br />Inserire nel seguente formato Mese/Giorno/Ora/Minuti/Secondi.</countdown_info>
+
+<tit_wrong_countdown>Nessun testo oppure formato irregolare.</tit_wrong_countdown>
+<tit_month>Mese</tit_month>
+<tit_day>Dgiorno</tit_day>
+<tit_hour>Ora</tit_hour>
+<tit_min>Minuti</tit_min>
+<tit_sec>Secondi</tit_sec>
+<tit_end>Finito</tit_end>
+
+<!-- -->
+<runtime_tit>Calcolatore tempo di spostamento truppe</runtime_tit>
+<runtime_dest>Finestra mobile aggiuntiva</runtime_dest>
+<runtime_info>Calcola il tempo di spostamento delle truppe in 2 finestre separate. Solo per account premium.</runtime_info>
+
+<bt_calc>Calcola</bt_calc>
+
+<!-- -->
+<multimarket_tit>Supermercato</multimarket_tit>
+<multimarket_dest>Finestra mobile aggiuntiva</multimarket_dest>
+<multimarket_info>Invia risorse liberamente nei villaggi che  vuoi. Importa e aggiorna dalla pagina del tuo profilo . Clicca su "profilo" e poi clicca il link "aggiorna supermercato" . Cliccando aggiorna si aggiungeranno tutti i tuoi villaggi.</multimarket_info>
+
+<bt_update>Aggiorna supermercato</bt_update>
+<bt_mm_all>Tutto</bt_mm_all>
+<bt_mm_none>Nessuno</bt_mm_none>
+<tit_dorf>Nome villaggio</tit_dorf>
+
+<!-- =================================================== Buttons -->
+
+<tit_extra_buttons>Aggiunta Bottoni</tit_extra_buttons>
+
+<extrabuttons_tit>Aggiunta bottoni</extrabuttons_tit>
+<extrabuttons_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Ovunque</extrabuttons_dest>
+<extrabuttons_info>Scegli nove nuovi bottoni da aggiungere oppure scegli liberamente quantita e tipo liberamente. Solo per account premium.</extrabuttons_info>
+
+<extrabuttonstab_tit>Apre la destinazione in una nuova scheda</extrabuttonstab_tit>
+<extrabuttonstab_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Ovunque <img src='http://www.kingsage.de/img/arrow_right_raquo.png' />Bottoni addizionali</extrabuttonstab_dest>
+<extrabuttonstab_info>Attiva il pulsante per aprire la finestra in una nuova scheda.</extrabuttonstab_info>
+
+<extrabuttonsorder_tit>Ordine bottoni</extrabuttonsorder_tit>
+<extrabuttonsorder_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png'><img src='http://www.kingsage.de/img/arrow_right_raquo.png'> Ovunque <img src='http://www.kingsage.de/img/arrow_right_raquo.png'> Additional buttons</extrabuttonsorder_dest>
+<extrabuttonsorder_info>Scegli i bottoni e il loro ordine di sequenza.</extrabuttonsorder_info>
+
+<op_burg>Castello</op_burg>
+<op_markt>mercato</op_markt>
+<op_markta>Accettazione mercato</op_markta>
+<op_bar>Ordini della caserma</op_bar>
+<op_baraus>reclutamento</op_baraus>
+<op_barfor>Ricerche della caserma</op_barfor>
+<op_snob>Residenza</op_snob>
+<op_gold>Goldsmith</op_gold>
+<op_map>Mappa</op_map>
+<op_none>Niente</op_none>
+
+<!-- =================================================== Functions -->
+
+<tit_functions>Funzioni</tit_functions>
+
+<highlighter_tit>Evidenzia i nomi dei villaggi</highlighter_tit>
+<highlighter_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Ovunque <img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Produzione , truppe</highlighter_dest>
+<highlighter_info>I villaggi attaccati o amici avranno colori diversi (Attaccati: rossi,Dove arrivano le difese : verde, Entrambi: Blu).</highlighter_info>
+
+<!-- -->
+<messagesaver_tit>Salva messaggi e reports</messagesaver_tit>
+<messagesaver_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Messaggi e report / Tools</messagesaver_dest>
+<messagesaver_info>Salva messaggi e reports in un click. Leggili e cancellali nell menù strumenti di kingsage.</messagesaver_info>
+
+<tit_message>Messagio</tit_message>
+<tit_report>Report</tit_report>
+<bt_savereport>Salva report</bt_savereport>
+<bt_savemessage>Salva messaggio</bt_savemessage>
+<bt_showreports>Mostra report</bt_showreports>
+<bt_showmessages>Mostra messaggio</bt_showmessages>
+<bt_deletemessages>Cancella messaggio</bt_deletemessages>
+<bt_deletereports>Cancella report</bt_deletereports>
+<al_stringerror>Testo troppo lungo o vuoto. 65 caratteri max.</al_stringerror>
+<al_savedmessage>Messagio salvato</al_savedmessage>
+<al_savedreport>Report salvato</al_savedreport>
+<al_deletedmessages>Messagio cancellato</al_deletedmessages>
+<al_deletedreport>Report cancellato</al_deletedreport>
+
+<!-- -->
+<villageinfo_tit>Minimappa nella pagina delle informazioni del villaggio </villageinfo_tit>
+<villageinfo_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Map <img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> info villaggio </villageinfo_dest>
+<villageinfo_info>Fornisce una minimappa nella pagina Info del villaggio (funziona meglio con un default di 9 x 9 settori, 5 Pixel). Questa caratteristica produce un simbolo aggiuntivo per contattare direttamente il giocatore.</villageinfo_info>
+
+<tit_mapofregion>Regione del villaggio</tit_mapofregion>
+
+<!-- -->
+<notizbalken_tit>Notebar</notizbalken_tit>
+<notizbalken_dest>Ovunque</notizbalken_dest>
+<notizbalken_info>Aggiunge la possibilita' di annotare un commento  per ogni villaggio.</notizbalken_info>
+
+<tit_entry>Inserisci</tit_entry>
+
+<!-- -->
+<calc_tit>Calcolatore del reclutamento</calc_tit>
+<calc_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png'><img src='http://www.kingsage.de/img/arrow_right_raquo.png'> Ovunque <img src='http://www.kingsage.de/img/arrow_right_raquo.png'> Reclutamento </calc_dest>
+<calc_info>Questa funzione mostra le risorse necessarie e i coloni per l'il reclutamnto.</calc_info>
+
+<tit_calctitel>Risorse necessarie</tit_calctitel>
+
+<!-- -->
+<fillin_tit>Risorse</fillin_tit>
+<fillin_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Market <img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Invio risorse </fillin_dest>
+<fillin_info>Preimposta la quantita' di merce da trasportare e richiama le ultime coordinate nella pagina del mercato.</fillin_info>
+
+<tit_lastvil>Ultimo villaggio</tit_lastvil>
+
+<!-- -->
+<header_tit>Togli testata</header_tit>
+<header_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Ovunqu (eccetto nella mappa)</header_dest>
+<header_info>nasconde la testa di kingsage permanentemente ("Sempre") o appare un bottone da premere  ("Bottone").</header_info>
+
+<bt_hidetop>Nascondi testata</bt_hidetop>
+<tit_headeralways>Sempre</tit_headeralways>
+<tit_headerbutton>Bottone</tit_headerbutton>
+
+<!-- =================================================== Specials -->
+
+<tit_special>Speciali</tit_special>
+
+<worldmap_tit>Mappa del mondo</worldmap_tit>
+<worldmap_dest>Preferenze toolbox</worldmap_dest>
+<worldmap_info>Genera una mappadel mondo composta da minimappe (Importante: Settaggio delle mappe - 9 x 9 settori , 5 pixel).</worldmap_info>
+
+<tit_genworldmap>Genera</tit_genworldmap>
+<al_worldmap>Hai settato le minimappe a 9x9 settori e a 5px?</al_worldmap>
+
+<!-- -->
+<attackalarm_tit>Allarme</attackalarm_tit>
+<attackalarm_dest>Ovunque</attackalarm_dest>
+<attackalarm_info>Un avvertimento acustico e ottico appariranno in caso di un attacco contro di voi. Il tono di allarme deve essere resettato ("Sound on") dopo ogni avvertimento. (Attenzione: Questa funzione ricarica la finestra del browser ogni due minuti.Adobe-Flash deve essere installato e attivato così come il vostro sistema audio.)</attackalarm_info>
+
+<tit_sound>Sound on</tit_sound>
+<tit_stop_sound>Ho appreso di essere sotto attacco , spegni il suono.</tit_stop_sound>
+
+<!-- =================================================== Contact & Information -->
+
+<tit_info_kontakt>Informazioni & Contatti</tit_info_kontakt>
+
+<translatedby>Steffen Lilie</translatedby>
+<tit_anzeigen>Mostra</tit_anzeigen>
+<tit_contact>Contatta</tit_contact>
+<bt_overview>Panoramica</bt_overview>

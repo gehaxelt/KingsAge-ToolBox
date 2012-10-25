@@ -1,0 +1,203 @@
+﻿<!-- =================================================== general stuff -->
+
+<tit_move>Mover</tit_move>
+<bt_apply>Aplicar</bt_apply>
+<bt_save>Guardar</bt_save>
+<bt_hide>Cerrar</bt_hide>
+<bt_add>OK</bt_add>
+<bt_send>Enviar</bt_send>
+
+<tit_active>activo</tit_active>
+<al_empty>Algunas entradas estan vacias</al_empty>
+
+<tit_button>Boton</tit_button>
+<tit_insert>Escribe tus comentarios aqui</tit_insert>
+
+<!-- =================================================== Preferences -->
+
+<tit_settings>Preferencias</tit_settings>
+
+<tit_presettings>Basicas</tit_presettings>
+
+<lang_tit>Seleccion de idioma</lang_tit>
+<lang_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> En todo KingsAge</lang_dest>
+<lang_info>Selecciona tu idioma</lang_info>
+
+<!-- -->
+<premium_tit>Cuenta Premium</premium_tit>
+<premium_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> En todo KingsAge</premium_dest>
+<premium_info> Equipa a las cuentas Premium con funcionalidades adicionales. No actives esta funcion sin Premium.</premium_info>
+
+<lang>ES</lang>
+
+<!-- =================================================== Windows -->
+
+<tit_moveable_windows>Ventanas desplazables</tit_moveable_windows>
+
+<notepad_tit>Bloc de notas</notepad_tit>
+<notepad_dest>Ventana desplazable adicional</notepad_dest>
+<notepad_info>Un bloc de notas de hasta diez paginas que incluye BB.Code. El icono del lapiz activa el modo edicion, un clic en el icono del ojo vuelve al modo lectura.</notepad_info>
+
+<!-- -->
+<chat_tit>Chat</chat_tit>
+<chat_dest>Ventana desplazable adicional</chat_dest>
+<chat_info>Un chat con otros usuarios de KingsAge. Hay diferentes salas disponibles.</chat_info>
+
+<tit_liable>El autor del chat no es responsable de lo que escriban los usuarios.</tit_liable>
+
+<!-- -->
+<countdown_tit>Cuenta atras</countdown_tit>
+<countdown_dest>Ventana desplazable adicional</countdown_dest>
+<countdown_info>Una lista de cuentas atras.<br />Las entradas tendran el formato Mes/Dia/Hora/Minuto/Segundo.</countdown_info>
+
+<tit_wrong_countdown>No texto introducido o formato incorrecto.</tit_wrong_countdown>
+<tit_month>Mes</tit_month>
+<tit_day>Dia</tit_day>
+<tit_hour>Hora</tit_hour>
+<tit_min>Minuto</tit_min>
+<tit_sec>Segundo</tit_sec>
+<tit_end>pasado</tit_end>
+
+<!-- -->
+<runtime_tit>Calculadora de velocidad</runtime_tit>
+<runtime_dest>Ventana desplazable adicional</runtime_dest>
+<runtime_info>Calcula la velocidad de tus tropas entre dos destinos en una ventana separada. Solo funcional con cuenta Premium.</runtime_info>
+
+<bt_calc>Calculadora</bt_calc>
+
+<!-- -->
+<multimarket_tit>Multimarket</multimarket_tit>
+<multimarket_dest>Ventana desplazable adicional</multimarket_dest>
+<multimarket_info>Envia recursos de forma inmediata desde una colonia seleccionada libremente al destino que quieras. Importa y actualiza los transportes en tu perfil. Haciendo clic en "Perfil" abre un enlace adicional llamado "Actualizar multimarket", lo que actualiza la lista de tus colonias.</multimarket_info>
+
+<bt_update>Actualizar multimarket</bt_update>
+<bt_mm_all>Todas</bt_mm_all>
+<bt_mm_none>Ninguna</bt_mm_none>
+<tit_dorf>Nombre de colonia</tit_dorf>
+
+<!-- =================================================== Buttons -->
+
+<tit_extra_buttons>Botones adicionales</tit_extra_buttons>
+
+<extrabuttons_tit>Botones adicionales</extrabuttons_tit>
+<extrabuttons_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Vistas previas</extrabuttons_dest>
+<extrabuttons_info>Elige hasta nueve botones para alcanzar tu destino en un clic. Orden, estilo y cantidad son elecciones libres. Solo funcional con cuenta Premium.</extrabuttons_info>
+
+<extrabuttonstab_tit>Abrir enlace en nueva ventana</extrabuttonstab_tit>
+<extrabuttonstab_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Vistas previas <img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Botones adicionales</extrabuttonstab_dest>
+<extrabuttonstab_info>Activa esta funcion para abrir los enlaces en una nueva pestaña.</extrabuttonstab_info>
+
+<extrabuttonsorder_tit>Orden de los botones</extrabuttonsorder_tit>
+<extrabuttonsorder_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png'><img src='http://www.kingsage.de/img/arrow_right_raquo.png'> Vistas previas <img src='http://www.kingsage.de/img/arrow_right_raquo.png'> Botones adicionales</extrabuttonsorder_dest>
+<extrabuttonsorder_info>Elige los botones y su orden de aparicion.</extrabuttonsorder_info>
+
+<op_burg>Castillo</op_burg>
+<op_markt>Mercado</op_markt>
+<op_markta>Aceptar recursos</op_markta>
+<op_bar>Ordenes</op_bar>
+<op_baraus>Entrenar tropas</op_baraus>
+<op_barfor>Investigar unidad</op_barfor>
+<op_snob>Mansion</op_snob>
+<op_gold>Orfebreria</op_gold>
+<op_map>Mapa</op_map>
+<op_none>Ninguno</op_none>
+
+<!-- =================================================== Functions -->
+
+<tit_functions>Funciones</tit_functions>
+
+<highlighter_tit>Resaltar nombres de colonias</highlighter_tit>
+<highlighter_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Vistas previas <img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Produccion, Tropas</highlighter_dest>
+<highlighter_info>Las colonias atacadas y/o apoyadas son resaltadas con colores diferentes (Ataque: Rojo, Apoyos: Verde, Ambos: Azul).</highlighter_info>
+
+<!-- -->
+<messagesaver_tit>Guardar mensajes y reportes</messagesaver_tit>
+<messagesaver_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Mensajes y reportes / Herramientas</messagesaver_dest>
+<messagesaver_info>Guarda mensajes y reportes con un clic. Leelos y borralos en las "Herramientas" de KingsAge.</messagesaver_info>
+
+<tit_message>Mensaje</tit_message>
+<tit_report>Reporte</tit_report>
+<bt_savereport>Guardar reporte</bt_savereport>
+<bt_savemessage>Guardar mensaje</bt_savemessage>
+<bt_showreports>Mostrar reportes</bt_showreports>
+<bt_showmessages>Mostrar mensajes</bt_showmessages>
+<bt_deletemessages>Borrar mensaje</bt_deletemessages>
+<bt_deletereports>Borrar reporte</bt_deletereports>
+<al_stringerror>Texto demasiado largo o vacio. Maximo 65 caracteres.</al_stringerror>
+<al_savedmessage>Mensaje salvado</al_savedmessage>
+<al_savedreport>Reporte salvado</al_savedreport>
+<al_deletedmessages>Mensaje borrado</al_deletedmessages>
+<al_deletedreport>Reporte borrado</al_deletedreport>
+
+<!-- -->
+<villageinfo_tit>Minimapa en la pagina de informacion de colonia</villageinfo_tit>
+<villageinfo_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Mapa <img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Informacion de colonia </villageinfo_dest>
+<villageinfo_info>Añade un minimapa en la pagina de informacion de la colonia (funciona mejor ajustado a 9 x 9 sectores, 5 pixel). Esta caracteristica añade un icono de sobre adicional para contactar con el jugador directamente.</villageinfo_info>
+
+<tit_mapofregion>Region de la colonia</tit_mapofregion>
+
+<!-- -->
+<notizbalken_tit>Barra de notas</notizbalken_tit>
+<notizbalken_dest>En todo KingsAge</notizbalken_dest>
+<notizbalken_info>Añade la posibilidad de anotar cualquier cosa en cada colonia.</notizbalken_info>
+
+<tit_entry>Entrada</tit_entry>
+
+<!-- -->
+<calc_tit>Calculadora de reclutamiento</calc_tit>
+<calc_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png'><img src='http://www.kingsage.de/img/arrow_right_raquo.png'> Vistas previas <img src='http://www.kingsage.de/img/arrow_right_raquo.png'> Reclutamiento</calc_dest>
+<calc_info>Esta funcion muestra los recursos y los colonos necesarios para el reclutamiento al final de la pagina.</calc_info>
+
+<tit_calctitel>Recursos necesarios</tit_calctitel>
+
+<!-- -->
+<fillin_tit>Recursos</fillin_tit>
+<fillin_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Mercado <img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Enviar recursos</fillin_dest>
+<fillin_info>Introduce la cantidad de recursos enviada a la pagina del mercado junto con las ultimas coordenadas usadas con un clic.</fillin_info>
+
+<tit_lastvil>Ultima colonia</tit_lastvil>
+
+<!-- -->
+<header_tit>Ocultar cabecera</header_tit>
+<header_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> En todo KingsAge (excepto en el mapa)</header_dest>
+<header_info>Oculta la cabecera de de las paginas de KingsAge permanentemente ("Siempre") o segun el caso ("Boton").</header_info>
+
+<bt_hidetop>Ocultar cabecera</bt_hidetop>
+<tit_headeralways>Siempre</tit_headeralways>
+<tit_headerbutton>Boton</tit_headerbutton>
+
+<!-- =================================================== Specials -->
+
+<tit_special>Especiales</tit_special>
+
+<worldmap_tit>Mapa del mundo</worldmap_tit>
+<worldmap_dest>Preferencias de ToolBox</worldmap_dest>
+<worldmap_info>Genera un mapa completo del mundo compuesto de minimapas (Importante: Opciones de mapa - 9 x 9 sectores, 5 pixel).</worldmap_info>
+
+<tit_genworldmap>Generar</tit_genworldmap>
+<al_worldmap>Tienes que configurar el minimapa a 9 x 9 sectores con 5 pixeles.</al_worldmap>
+
+<!-- -->
+<attackalarm_tit>Alarma</attackalarm_tit>
+<attackalarm_dest>En todo KingsAge</attackalarm_dest>
+<attackalarm_info>Un aviso acustico y optico aparecera en caso de ataques contra ti. El tono de alarma tiene que reiniciarse ("Sonido activo") tras cada aviso. (Atencion: esta funcion recarga tu navegador cada dos minutos. Adobe Flash tiene que estar instalado y activado así como tu sistema de sonido).</attackalarm_info>
+
+<tit_sound>Sonido activo</tit_sound>
+<tit_stop_sound>He visto el ataque. Parar la alarma.</tit_stop_sound>
+
+<!-- =================================================== Contact & Information -->
+
+<tit_info_kontakt>Informacion y Contacto</tit_info_kontakt>
+
+<translatedby>Steffen Lilie</translatedby>
+<tit_anzeigen>Mostrar</tit_anzeigen>
+<tit_contact>Contacto</tit_contact>
+<bt_overview>Ver</bt_overview>
+
+<!-- ========================================= Version 3.54 ============== -->
+<use_kes>Usas KES userscript?</use_kes>
+<use_kes_tit>KES userscript</use_kes_tit>
+<use_kes_viewcombined>Vista combinada en la vista de colonia</use_kes_viewcombined>
+<use_kes_info>La nueva version de KES userscript causa errores con ToolBox en la vista combinada de la vista de la colonia. Para prevenir esto, desactiva KES o activa la casilla para que ToolBox no genere botones en la vista combinada.</use_kes_info>
+<bt_reset>Reiniciar</bt_reset>
+<bt_reset_info>Reiniciar todas las opciones a su valor por defecto.</bt_reset_info>

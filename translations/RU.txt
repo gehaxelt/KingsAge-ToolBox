@@ -1,0 +1,197 @@
+<!-- =================================================== general stuff -->
+
+<tit_move>Переместить</tit_move>
+<bt_apply>Применить</bt_apply>
+<bt_save>Сохранить</bt_save>
+<bt_hide>X</bt_hide>
+<bt_add>Ok</bt_add>
+<bt_send>Отправить</bt_send>
+
+<tit_active>вкл</tit_active>
+<al_empty>Некоторые поля пустые</al_empty>
+
+<tit_button>Кнопка</tit_button>
+<tit_insert>Добавьте свой комментарий</tit_insert>
+
+<!-- =================================================== Preferences -->
+
+<tit_settings>Настройки</tit_settings>
+
+<tit_presettings>Пред. установки</tit_presettings>
+
+<lang_tit>Выбор языка</lang_tit>
+<lang_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Везде</lang_dest>
+<lang_info>Выберите свой язык</lang_info>
+
+<!-- -->
+<premium_tit>Премиум</premium_tit>
+<premium_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Везде</premium_dest>
+<premium_info>Включите ето если вы используете Премиум аккаунт.</premium_info>
+
+<lang>RU</lang>
+
+<!-- =================================================== Windows -->
+
+<tit_moveable_windows>Перемещаемое окно</tit_moveable_windows>
+
+<notepad_tit>Блокнот</notepad_tit>
+<notepad_dest>Перемещаемое окно</notepad_dest>
+<notepad_info>Записная книжка с 10ю страницами. Поддерживает ВВ-коды. Карандаш включает режим редактирования, клик на иконку с глазом переключает обратно в режим чтения.</notepad_info>
+
+<!-- -->
+<chat_tit>Чат</chat_tit>
+<chat_dest>Перемещаемое окно</chat_dest>
+<chat_info>Ета функция включает чат в котором можно общатся с другими игроками KingsAge. Есть несколько виртуальных комнат.</chat_info>
+
+<tit_liable>Создатель чата не несет ответственности за то что в нем пишут.</tit_liable>
+
+<!-- -->
+<countdown_tit>Таймер</countdown_tit>
+<countdown_dest>Перемещаемое окно</countdown_dest>
+<countdown_info>Ета функция позволяет создавать список настраиваемых таймеров. <br /> Формат: месяц / день / часы / минуты.</countdown_info>
+
+<tit_wrong_countdown>Ничего не введено, или не правильное время.</tit_wrong_countdown>
+<tit_month>Месяц</tit_month>
+<tit_day>День</tit_day>
+<tit_hour>Часов</tit_hour>
+<tit_min>Минут</tit_min>
+<tit_sec>Секунд</tit_sec>
+<tit_end>Дзинь-Дзинь</tit_end>
+
+<!-- -->
+<runtime_tit>Калькулятор времени хода</runtime_tit>
+<runtime_dest>Перемещаемое окно</runtime_dest>
+<runtime_info>Считает время хода войск между двумя поселениями.</runtime_info>
+
+<bt_calc>Определить</bt_calc>
+
+<!-- -->
+<multimarket_tit>Мульти-рынок</multimarket_tit>
+<multimarket_dest>Перемещаемое окно</multimarket_dest>
+<multimarket_info>Немедленно отправляет ресурсы в поселение которое вы хотите.<br />Кликайте на "Профиль" и вы увидете кнопку "Обновить Мульти-рынок" которая обновит список ваших поселений.</multimarket_info>
+
+<bt_update>Обновить Мульти-рынок</bt_update>
+<bt_mm_all>Все</bt_mm_all>
+<bt_mm_none>Нет</bt_mm_none>
+<tit_dorf>Имя деревни</tit_dorf>
+
+<!-- =================================================== Buttons -->
+
+<tit_extra_buttons>Доп. кнопки</tit_extra_buttons>
+
+<extrabuttons_tit>Доп. кнопки</extrabuttons_tit>
+<extrabuttons_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Обзоры</extrabuttons_dest>
+<extrabuttons_info>Добавляет доп. кнопки в обзоре поселений. Вы можете добавить до 9 кнопок.</extrabuttons_info>
+
+<extrabuttonsorder_tit>Порядок доп. кнопок</extrabuttonsorder_tit>
+<extrabuttonsorder_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png'><img src='http://www.kingsage.de/img/arrow_right_raquo.png'> Обзоры <img src='http://www.kingsage.de/img/arrow_right_raquo.png'> Доп. кнопки</extrabuttonsorder_dest>
+<extrabuttonsorder_info>Выберите доп. кнопки и их порядок</extrabuttonsorder_info>
+
+<extrabuttonstab_tit>Доп. кнопки открывать в новой вкладке</extrabuttonstab_tit>
+<extrabuttonstab_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Обзоры <img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Доп. кнопки</extrabuttonstab_dest>
+<extrabuttonstab_info>Ета функция работает только с функцией доп. кнопок. Клик на доп. кнопку открывает в новой вкладке.</extrabuttonstab_info>
+
+<op_burg>Замок</op_burg>
+<op_markt>Рынок</op_markt>
+<op_markta>Принять ресурсы</op_markta>
+<op_bar>Заказы в бараке</op_bar>
+<op_baraus>Тренировка в бараке</op_baraus>
+<op_barfor>Исследование в бараке</op_barfor>
+<op_snob>Резиденция</op_snob>
+<op_gold>Казна</op_gold>
+<op_map>Карта</op_map>
+<op_none>Нет</op_none>
+
+<!-- =================================================== Functions -->
+
+<tit_functions>Функции</tit_functions>
+
+<highlighter_tit>Подсвечивание поселений</highlighter_tit>
+<highlighter_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Обзоры</highlighter_dest>
+<highlighter_info>Изменяет цвета поселений которые под атакой, и для которых идет поддержка (Атака: красный, Поддержка: зеленый, И то и то: синий).</highlighter_info>
+
+<!-- -->
+<messagesaver_tit>Сохранять сообщения и отчеты</messagesaver_tit>
+<messagesaver_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Сообщения и отчеты / Инструменты</messagesaver_dest>
+<messagesaver_info>Ета функция позволяет сохранять сообщения и отчеты. Зайдите в "Инструменты" чтоб увидеть их.</messagesaver_info>
+
+<tit_message>Сообщение</tit_message>
+<tit_report>Отчет</tit_report>
+<bt_savereport>Сохранить</bt_savereport>
+<bt_savemessage>Сохранить</bt_savemessage>
+<bt_showreports>Показать отчеты</bt_showreports>
+<bt_showmessages>Показать сообщения</bt_showmessages>
+<bt_deletemessages>Удалить сообщение</bt_deletemessages>
+<bt_deletereports>Удалить отчет</bt_deletereports>
+<al_stringerror>Текст слишком долгий или пустой. Максимум 65 символов.</al_stringerror>
+<al_savedmessage>Зделано. Сообщение сохранено!</al_savedmessage>
+<al_savedreport>Зделано. Отчет сохранен!</al_savedreport>
+<al_deletedmessages>Зделано. Сообщение удалено!</al_deletedmessages>
+<al_deletedreport>Зделано. Отчет удален!</al_deletedreport>
+
+<!-- -->
+<villageinfo_tit>Доп. инфа поселения на карте</villageinfo_tit>
+<villageinfo_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Карта <img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Инфо поселения </villageinfo_dest>
+<villageinfo_info>Ета функция добавляет мини-карту к обзору деревни (оптимальный размер карты 9х9 секторов, 5 пикселей на поле). А так же появляется кнопка отправить сообщение владельцу поселения.</villageinfo_info>
+
+<tit_mapofregion>Регион поселения</tit_mapofregion>
+
+<!-- -->
+<notizbalken_tit>Заметка</notizbalken_tit>
+<notizbalken_dest>Везде</notizbalken_dest>
+<notizbalken_info>Можно добавить заметку каждому своему поселению.</notizbalken_info>
+
+<tit_entry>Заметка</tit_entry>
+
+<!-- -->
+<calc_tit>Подсчет ресурсов</calc_tit>
+<calc_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png'><img src='http://www.kingsage.de/img/arrow_right_raquo.png'> Бараки <img src='http://www.kingsage.de/img/arrow_right_raquo.png'> Тренировать</calc_dest>
+<calc_info>Ета функция считает необходимое количество ресурсов и поселенцев для тренировки армии.</calc_info>
+
+<tit_calctitel>Необходимые ресурсы:</tit_calctitel>
+
+<!-- -->
+<fillin_tit>Авто заполнение ресурсами</fillin_tit>
+<fillin_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Рынок <img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Отправить сырье</fillin_dest>
+<fillin_info>Ета функция добавляет кнопку авто заполнения  ресурсов тем количеством которое вы укажите. А также появится кнопка "Последние координаты"</fillin_info>
+
+<tit_lastvil>Последняя деревня</tit_lastvil>
+
+<!-- -->
+<header_tit>Верхняя панель</header_tit>
+<header_dest><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /><img src='http://www.kingsage.de/img/arrow_right_raquo.png' /> Везде</header_dest>
+<header_info>Ета функция убирает верхнюю панель, тоесть двигает основной блок на 150рх вверх. На выбор есть два варианта: Всегда или Кнопка. Не работает на карте.</header_info>
+
+<bt_hidetop>Спрятать верхнюю панель</bt_hidetop>
+<tit_headeralways>Всегда</tit_headeralways>
+<tit_headerbutton>Кнопка</tit_headerbutton>
+
+<!-- =================================================== Specials -->
+
+<tit_special>Specials</tit_special>
+
+<worldmap_tit>Карта мира</worldmap_tit>
+<worldmap_dest>Настройки</worldmap_dest>
+<worldmap_info>Кнопка "Генерировать" создаст карту мира из мини карт. Важно: используйте настройки карты 9 х 9 секторов.</worldmap_info>
+
+<tit_genworldmap>Генерировать</tit_genworldmap>
+<al_worldmap>Размер миникарты 9х9 секторов включен?</al_worldmap>
+
+<!-- -->
+<attackalarm_tit>Сигнализатор атак</attackalarm_tit>
+<attackalarm_dest>Везде</attackalarm_dest>
+<attackalarm_info>При обнаружении атаки будет выдано звуковое и визуальное оповещение. После каждой атаки звук нужно включать ("Звук ВКЛ"). Внимание: ета функция будет автоматически перезагружать страницу каждые 2 минуты, Adobe-Flash должен быть разрешен.</attackalarm_info>
+
+<tit_sound>Звук ВКЛ</tit_sound>
+<tit_stop_sound>На вас идет атака. Выключить звук!</tit_stop_sound>
+
+<!-- =================================================== Contact & Information -->
+
+<tit_info_kontakt>Информация и Контакты</tit_info_kontakt>
+
+<translatedby>eXtra</translatedby>
+<tit_anzeigen>Показать</tit_anzeigen>
+<tit_contact>Контакты</tit_contact>
+<bt_overview>Обзор</bt_overview>
+
+<!-- ======================================================================================== -->
