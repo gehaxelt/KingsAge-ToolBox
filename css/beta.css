@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/* CSS Document */
+/* ============================================
+KingsAge Toolbox is available at
+http://userscripts.org/scripts/show/80402
+
+Development and scripting: Sebastian Neef
+Design and stylesheets: Steffen Lilie
+Copyright (c) 2010-2012. All rights reserved.
+
+Original graphics used and modified with kind
+permission of the owner: http://www.kingsage.de
+=============================================== */
+/* import initialising images */
+@import url(import/toolbox_images_beta.css);
+
+/* import initialising element styles */
+@import url(import/toolbox_default_beta.css);
+
+/* import content styles */
+@import url(import/toolbox_content_beta.css);
+
+/* import jquery styles */
+@import url(import/toolbox_jquery_beta.css);

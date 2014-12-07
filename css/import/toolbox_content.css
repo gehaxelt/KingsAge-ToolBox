@@ -1,0 +1,229 @@
+@charset "UTF-8";
+/* ==============================================================================
+toolbox content
+================================================================================= */
+
+/******************************************************************/
+/****************************************************** container */
+#toolbox {
+	top:175px;
+	right:-415px;
+	height:23px;
+}
+#settingsico,
+#chatico,
+#headerico,
+#countdownico,
+#vilpointico,
+#notepadico {
+	list-style-type:none;
+}
+/* --- initialising movable container */
+#settingsdiv,
+#configdiv,
+#notesid,
+#chatdiv {
+	width:400px;
+}
+#countdown {
+	width:250px;
+}
+#vilpointdiv {
+	width:220px;
+}
+/* initialising inner container width */
+#toolboxdiv textarea,
+.move,
+.topbox table,
+#notshow,
+.footer {
+	width:100%;
+}
+/**********************************************************************************/
+/********************************************************* content ****************/
+
+/******************************************************************/
+/************************************************** toolbox menue */
+#toolbox img {
+	width:22px;
+	height:21px;
+}
+/******************************************************************/
+/********************************************************* header */
+.move {
+	height:25px;
+}
+/******************************************************************/
+/******************************************************* settings */
+.topbox table {
+	border-spacing:0;
+}
+.topbox table td {
+	height:24px;
+}
+#controlpanel .td_settingsopt input {
+	width:10px;
+}
+/* ------------------- functions info */
+.td_settingsinfo .infotext {
+	min-width:190px;
+}
+/* -------------------------- imprint */
+#settingsdiv .footer .infotext_onoff {
+	top:12px;
+	right:50%;
+}
+#settingsdiv .footer .infotext {
+	left:-160px;
+	bottom:-178px;
+	height:160px;
+	width:320px;
+}
+#madeby .mailto {
+	position:relative;
+	left:170px;
+	top:20px;
+}
+/* ------------ settins form elements */
+#controlpanel select,
+#controlpanel #insend,
+#config,
+.configbutton {
+	min-width:80px;
+}
+.topbox input {
+	width:70px;
+}
+/******************************************************************/
+/******************************************************** notepad */
+#notshow,
+#nottext {
+	min-height:290px;
+}
+#bbcodediv{
+	width:400px;
+}
+#notepadchangemode {
+	width:46px;
+}
+/* ------------ notepad form elements */
+#bbcodediv select {
+	width:40px;
+	height:22px;
+}
+#bbcodediv option {
+width:40px;
+	height:22px;
+}
+/******************************************************************/
+/*********************************************************** chat */
+#chattext {
+	line-height:12pt;
+	min-height:255px;
+}
+.smilie { /*smilie notshow output*/
+	height:15px;
+}
+.chattextpost {
+	height:15pt;
+}
+/* --------------- chat form elements */
+#smilie {
+	width:40px;
+	height:22px;
+	top:-2px;
+}
+#smilie option {
+	height:21px;
+}
+#chatsend {
+	width:70px;
+}
+/******************************************************************/
+/****************************************************** countdown */
+#countdown table {
+	border-spacing:0;
+}
+#countdown td {
+	height:25px;
+}
+#countdown td.eventname {
+	width:108px;
+}
+#countdown .td_endtime {
+	width:110px;
+}
+#countdown .td_del img {
+	width:8px;
+}
+/* ---------- countdown form elements */
+#chatinput {
+	width:245px;
+	height: 22px;
+}
+#countdown #text {
+	width:108px;
+}
+#countdown input {
+	width:17px;
+}
+/******************************************************************/
+/****************************************************** converter */
+/* ---------- converter form elements */
+#vilpointdiv textarea {
+	height:175px;
+}
+#vilpointdiv input {
+	height:18px;
+}
+/*********************************************************** content elements END */
+/**********************************************************************************/
+
+/******************************************************************/
+/********************************** calculator (barracks recruit) */
+#calctable {
+	clear:both;
+	top:65px;
+	width:97.5%;
+}
+.needres {
+	width:200px;
+	padding-left:8px;
+}
+.ressis {
+	left:350px;
+	width:auto;
+}
+.siedler {
+	right:20px;
+	width:200px;
+	text-align:right;
+	padding-right:10px;
+}
+.ressis img,
+.siedler img {
+	padding:0 5px;
+}
+/******************************************************************/
+/************************************************** message saver */
+#showdiv .subject,
+#showdiv .from,
+#showdiv .inbox,
+#showdiv .time {
+	top:-75px;
+}
+.message_number {
+	height:55px;
+	width:790px;
+}
+#showdiv .floatLeft {
+	height:20px !important;
+}
+/* ------ message saver form elements */
+#selmessage,
+#selreport {
+	min-width:80px;
+}
+/* ==============================================================================
+toolbox CSS end
+================================================================================= */

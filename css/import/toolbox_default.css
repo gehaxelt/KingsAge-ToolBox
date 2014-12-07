@@ -1,0 +1,504 @@
+@charset "UTF-8";
+/* ==============================================================================
+initialising toolbox basic styles
+================================================================================= */
+
+/* ================== initialising element display, visibility, z-index */
+#notepadchangemode,
+#calctable {
+	display:table-cell;
+}
+#settingsico,
+#chatico,
+#headerico,
+#countdownico,
+#vilpointico,
+#notepadico {
+	display:list-item;
+}
+#settingsdiv .footer .infotext .innertext,
+.chattextodd,
+.chattexteven,
+.chattextpost,
+#notshow,
+#nottext {
+	display:block;
+}
+#countdown table th,
+#countdownops #year,
+#showdiv img {
+	display:none;
+}
+#countdownico,
+#settingsico,
+#chatico,
+/* ******************************************
+#headerico,
+********************************************/
+#vilpointico,
+#notepadico,
+.infotext,
+#settingsdiv,
+#configdiv,
+#countdown,
+#notesid,
+#vilpointdiv,
+#chatdiv,
+.ToolBoxHead span:hover .infotext {
+	visibility:hidden;
+}
+.infotext_onoff span:hover .infotext {
+	visibility:visible;
+}
+#settingsdiv,
+#configdiv,
+#countdown,
+#notesid,
+#vilpointdiv,
+#chatdiv {
+	z-index:1000;
+}
+#configdiv  {
+	z-index:1001;
+}
+.infotext {
+	z-index:2000;
+}
+
+/* ============ initialising element position */
+#toolbox,
+.td_settingsinfo .infotext,
+#settingsdiv .footer .infotext_onoff,
+#settingsdiv .footer .infotext,
+#calctable,
+.needres,
+.ressis,
+.siedler,
+.subject,
+.time,
+.inbox {
+	position:absolute;
+}
+#smilie,
+.footer,
+.chattextpost,
+#showdiv .subject,
+#showdiv .from,
+#showdiv .inbox,
+#showdiv .time {
+	position:relative;
+}
+#settingsdiv,
+#configdiv,
+#countdown,
+#notesid,
+#vilpointdiv,
+#chatdiv {
+	position:fixed;
+}
+/* ======================= initialising float */
+.topbox input,
+#config,
+#addbutton,
+#langselect,
+#headerselect,
+#controlpanel select,
+#room,
+#vilpointdiv input,
+#genwmap,
+.notepadbuttons,
+.configbutton,
+.infotext_onoff {
+	float:right;
+}
+#settingsico,
+#chatico,
+#headerico,
+#countdownico,
+#vilpointico,
+#notepadico,
+#countdown #text,
+#bbcodediv img,
+#notepadchangemode,
+#vilpointdiv button {
+	float:left;
+}
+#vilpointdiv .footer {
+	clear:both;
+}
+/* ========================== initialising margin */
+#toolbox {
+	margin:0 50%;
+}
+#toolboxdiv,
+#insend,
+#chatinput,
+#countdown input,
+.td_settingsinfo .infotext h4,
+.td_settingsinfo .infotext h5 {
+	margin:0;
+}
+#countdown .td_del img {
+	margin-top:1px;
+}
+#configdiv  {
+	margin-top:31px;
+}
+.footer,
+.td_settingsinfo .infotext p {
+	margin-top:3px;
+}
+#chatdiv .footer .infotext_onoff {
+	margin-top:4px;
+}
+#configdiv table,
+#configdiv .footer,
+.td_settingsinfo .infotext {
+	margin-top:10px;
+}
+#countdown #text {
+	margin-right:3px;
+}
+.infotext {
+	margin-right:5px;
+}
+#controlpanel .td_settingsopt input {
+	margin-right:10px;
+}
+#img_mode {
+	margin-right:21px;
+}
+#chatinput {
+	margin-right:4px;
+}
+#smilie {
+	margin-right:37px;
+}
+.move,
+#nottext,
+#vilpointdiv button {
+	margin:0 0 3px 0;
+}
+#ausgabecalcvilpoint,
+#chatinput,
+#notshow {
+	margin-bottom:4px;
+}
+#showdiv .inbox {
+	margin-bottom:-80px;
+}
+#countdown table,
+#notshow {
+	margin:0 0 0 1px;
+}
+.smilie,
+.notepadbuttons button,
+.bbselect,
+#bbcodediv img {
+	margin:0 0 0 2px;
+}
+#settingsdiv .footer .infotext {
+	margin:0 0 0 10px;
+}
+.needres {
+	margin:0 0 0 5px;
+}
+#showdiv .subject,
+#showdiv .from,
+#showdiv .inbox,
+#showdiv .time {
+	margin:0 0 0 145px;
+}
+/* kombiniert */
+#toolbox img {
+	margin:0 2px 0 2px;
+}
+#vilpointdiv button,
+#vilpointdiv textarea {
+	margin:2px 0 5px 0;
+}
+#settingsdiv .footer .infotext .innertext {
+	margin:69px 0 0 215px;
+}
+#bbcodediv{
+	margin:3px 0 2px 0;
+}
+#chattext {
+	margin:15px 0 15px 0;
+}
+#calctable {
+	margin:-62px 0 0 10px;
+}
+#calctable img {
+	margin:3px 5px 0 15px;
+}
+/* ===================== initialising padding */
+#toolboxdiv select,
+#selmessage,
+#selreport {
+	padding:0px 5px 0px 5px;
+}
+#bbcodediv select,
+#chatdiv #smilie,
+#countdown .td_del,
+#countdown td,
+.topbox table td,
+.td_settingsinfo .infotext h4,
+#toolboxdiv,
+#insend {
+	padding:0;
+}
+.footer {
+	padding:5px 0 0 0;
+}
+.ToolBoxBrand {
+	padding:1px 0 0 0;
+}
+#nottext {
+	padding:3px 0 0 0;
+}
+#notshow {
+	padding:4px 0 0 0;
+}
+.td_settingsinfo .infotext h5 {
+	padding:0 0 2px 0;
+}
+#toolboxdiv button {
+	padding:0 2px 0px 2px;
+	/*padding:0 2px 2px 2px;*/
+}
+#settingsdiv,
+#configdiv,
+#countdown,
+#notesid,
+#vilpointdiv,
+#chatdiv {
+	padding:5px 10px 5px 10px;
+}
+.td_settingsinfo .infotext {
+	padding:5px 5px 5px 10px;
+}
+#countdown #text {
+	padding:1px 0 1px 1px;
+}
+#countdown td.eventname {
+	padding:0 1px 0 1px;
+}
+#countdown .td_endtime {
+	padding:0 5px 0 7px;
+}
+#countdown .bullets {
+	padding:1px;
+}
+.message_number {
+	padding:37px 0 0 20px;
+}
+#showdiv .subject {
+	padding:0 0 15px 0;
+}
+/* ============= initialising border */
+#notshow,
+#nottext,
+#settingsdiv .move .infotext,
+#configdiv .move .infotext,
+.move .infotext,
+#settingsdiv .footer,
+#configdiv .footer,
+#countdown table,
+.noborder td {
+	border:none;
+}
+#toolbox {
+	border:1px solid #222;
+}
+#toolboxdiv select,
+#toolboxdiv option,
+#toolboxdiv button,
+.topbox,
+.topbox .infotext,
+#notesid,
+#chatdiv,
+#countdown,
+#vilpointdiv,
+#calctable,
+#selmessage,
+#selreport {
+	border:1px solid #666;
+}
+#vilpointdiv textarea {
+	border:1px solid #d6b371;
+}
+.move,
+#configdiv table td,
+td.td_settingshead,
+td.td_settingsopt,
+td.td_settingsinfo,
+.td_settingsinfo .infotext h5 {
+	border-bottom:1px dotted #840000;
+}
+.footer,
+#nottext {
+	border-top:1px dotted #840000;
+}
+.chattextodd,
+.chattexteven {
+	border-bottom: 1px solid #d6b371;
+}
+#toolbox {
+	-moz-border-radius:5px;
+}
+.topbox,
+.topbox .infotext,
+#notesid,
+#chatdiv,
+#countdown,
+#vilpointdiv,
+#calctable {
+	-moz-border-radius:10px;
+}
+#toolboxdiv button,
+#toolboxdiv select,
+#selmessage,
+#selreport {
+	-moz-border-radius:20px;
+}
+#bbcodediv select,
+#chatdiv #smilie {
+	-moz-border-radius:0;
+}
+/* ============= initialising text/fonts */
+.ToolBoxBrand {
+	font-family: Bernhard Modern BT;
+	font-size: 10pt;
+	font-weight:bold;
+	font-variant:small-caps;
+}
+.ToolBoxTitle {
+	font-family: Bradley Hand ITC TT;
+	font-size: 10pt;
+}
+#toolboxdiv,
+#toolboxdiv td,
+#toolboxdiv th,
+#toolboxdiv h4,
+#toolboxdiv textarea,
+#toolboxdiv button,
+#toolboxdiv select {
+	font-family:Verdana;
+	font-weight:normal;
+	font-style:normal;
+	font-size:8pt;
+}
+#toolboxdiv h5,
+#countdown td,
+.infotext_onoff  {
+	font-family:Verdana;
+	font-weight:normal;
+	font-size:7pt;
+}
+.td_settingsinfo .infotext h5,
+.chattextdate {
+	font-style:italic;
+}
+.td_settingsinfo .infotext p {
+	color:#000;
+}
+.move,
+.topbox td,
+#countdown td,
+.chattextuser,
+.infotext_onoff,
+#vilpointdiv span,
+#pnmessaver,
+#pnshow,
+#repshow,
+#repsaver,
+.message_number {
+	color: #840000;
+}
+#langselect,
+.td_settingsopt,
+th.th_settingshead,
+th.th_settingsinfo,
+.tablerow2,
+.topbox table th.active,
+.numbers,
+.bullets,
+#countdown input,
+#countdown .td_endtime,
+#countdown .td_del,
+#insend,
+.siedler {
+	text-align:center;
+}
+#toolboxdiv,
+#countdown #text {
+	text-align:left;
+}
+.bbselect option {
+	text-align:right;
+}
+.message_number {
+	text-transform:uppercase;
+}
+#notshow,
+#nottext {
+	line-height:11pt;
+}
+.chattextodd,
+.chattexteven {
+	line-height:18pt;
+}
+/* ============= initialising backgrounds */
+#toolboxdiv button,
+#toolboxdiv input,
+#toolboxdiv select,
+#toolboxdiv option,
+#calctable,
+#delrep,
+#delpn,
+#selmessage,
+#selreport { /*dunkelbraun*/
+	background-color: #d6b371;
+}
+#countdown,
+#notesid,
+#chatdiv,
+#vilpointsdiv,
+#toolboxdiv input,
+#vilpointdiv textarea { /*hellbraun*/
+    background-color:#f6dba4;
+}
+#toolboxdiv table,
+#toolboxdiv th,
+#toolboxdiv th.active,
+#toolboxdiv td,
+.noborder td,
+#notshow,
+#nottext {
+	background:none;
+}
+#toolbox,
+#bbcodediv select,
+#chatdiv #smilie,
+#toolboxdiv option,
+.move,
+#settingsdiv .footer .infotext {
+	background-repeat:no-repeat;
+}
+/* ============= initialising user interface */
+#toolbox img,
+#bbcodediv img,
+#toolboxdiv select,
+#toolboxdiv option,
+#toolboxdiv button,
+#pnmessaver,
+#pnshow,
+#repshow,
+#repsaver,
+.cursorpointer {
+	cursor:pointer;
+}
+.move {
+	cursor:move;
+}

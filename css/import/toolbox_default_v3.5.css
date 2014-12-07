@@ -1,0 +1,590 @@
+@charset "UTF-8";
+/* ==============================================================================
+initialising toolbox basic styles
+================================================================================= */
+
+/* ================== initialising element display, visibility, z-index */
+#notepadchangemode,
+#calctable {
+	display:table-cell;
+}
+#runtimeico,
+#settingsico,
+#chatico,
+#headerico,
+#countdownico,
+#vilpointico,
+#multimarketico,
+#notepadico {
+	display:list-item;
+}
+#settingsdiv .footer .infotext .innertext,
+.chattextodd,
+.chattexteven,
+.chattextpost,
+#notshow,
+#nottext {
+	display:block;
+}
+#countdown table th,
+#countdownops #year,
+#showdiv img {
+	display:none;
+}
+#newsdiv,
+#runtimeico,
+#countdownico,
+#settingsico,
+#chatico,
+#headerico,
+#vilpointico,
+#notepadico,
+.infotext,
+#settingsdiv,
+#configdiv,
+#countdown,
+#notesid,
+#multimarketico,
+#chatdiv,
+.ToolBoxHead span:hover .infotext {
+	visibility:hidden;
+}
+.infotext_onoff span:hover .infotext {
+	visibility:visible;
+}
+#newsinfodiv,
+#newsdiv,
+#runtimediv,
+#settingsdiv,
+#configdiv,
+#countdown,
+#notesid,
+#vilpointdiv,
+#multimarketdiv,
+#chatdiv {
+	z-index:1000;
+}
+#configdiv  {
+	z-index:1001;
+}
+.infotext {
+	z-index:2000;
+}
+
+/* ============ initialising element position */
+#toolbox,
+.td_settingsinfo .infotext,
+#settingsdiv .footer .infotext_onoff,
+#settingsdiv .footer .infotext,
+#calctable,
+#attack_info,
+.needres,
+.ressis,
+.siedler,
+.subject,
+.time,
+.inbox {
+	position:absolute;
+}
+#smilie,
+.footer,
+.chattextpost,
+#showdiv .subject,
+#showdiv .from,
+#showdiv .inbox,
+#showdiv .time {
+	position:relative;
+}
+
+#newsdiv,
+#runtimediv,
+#settingsdiv,
+#configdiv,
+#countdown,
+#notesid,
+#multimarketdiv,
+#vilpointdiv,
+#chatdiv {
+	position:fixed;
+}
+/* ======================= initialising float */
+#newsoverview,
+#mmstart,
+#sound_opt,
+#sound_opt_des,
+.topbox input,
+#config,
+#addbutton,
+#langselect,
+#headerselect,
+#controlpanel select,
+#room,
+#vilpointdiv input,
+#genwmap,
+#newsshow,
+.notepadbuttons,
+.configbutton,
+.infotext_onoff {
+	float:right;
+}
+#village1,
+#runtimeico,
+#settingsico,
+#chatico,
+#headerico,
+#countdownico,
+#mmtarget,
+#multimarketico,
+#notepadico,
+#countdown #text,
+#bbcodediv img,
+#notepadchangemode,
+#vilpointdiv button {
+	float:left;
+}
+#vilpointdiv .footer {
+	clear:both;
+}
+/* ========================== initialising margin */
+#toolbox {
+	margin:0 50%;
+}
+#toolboxdiv,
+#insend,
+#chatinput,
+#countdown input,
+.td_settingsinfo .infotext h4,
+.td_settingsinfo .infotext h5 {
+	margin:0;
+}
+#sound_opt_des { /* text */
+	margin-top:-1px;
+}
+#sound_opt,
+#countdown .td_del img {
+	margin-top:1px;
+}
+#configdiv  {
+	margin-top:31px;
+}
+.footer,
+.td_settingsinfo .infotext p {
+	margin-top:3px;
+}
+#chatdiv .footer .infotext_onoff {
+	margin-top:4px;
+}
+#mmmain,
+#configdiv table,
+#configdiv .footer,
+.td_settingsinfo .infotext {
+	margin-top:10px;
+}
+#mmres input {
+	margin-right:1px;
+}
+#sound_opt_des,
+#countdown #text,
+#mmall {
+	margin-right:3px;
+}
+#chatinput {
+	margin-right:4px;
+}
+.infotext {
+	margin-right:5px;
+}
+#controlpanel .td_settingsopt input,
+#village1,
+#village2 {
+	margin-right:10px;
+}
+#img_mode {
+	margin-right:21px;
+}
+#mmstart {
+	margin-right:25px;
+}
+#smilie {
+	margin-right:37px;
+}
+.move,
+#nottext,
+#vilpointdiv button {
+	margin:0 0 3px 0;
+}
+#ausgabecalcvilpoint,
+#chatinput,
+#notshow {
+	margin-bottom:4px;
+}
+#showdiv .inbox {
+	margin-bottom:-80px;
+}
+#calc_runtime,
+#mmmain img {
+	margin-left:10px;
+}
+#mmmain input {
+	margin-left:15px;
+}
+#countdown table,
+#notshow {
+	margin:0 0 0 1px;
+}
+.smilie,
+.notepadbuttons button,
+.bbselect,
+#bbcodediv img {
+	margin:0 0 0 2px;
+}
+.needres {
+	margin:0 0 0 5px;
+}
+#settingsdiv .footer .infotext {
+	margin:0 0 0 10px;
+}
+#showdiv .subject,
+#showdiv .from,
+#showdiv .inbox,
+#showdiv .time {
+	margin:0 0 0 145px;
+}
+/* kombiniert */
+#toolbox img {
+	margin:1px 2px 0 2px;
+}
+#vilpointdiv button,
+#vilpointdiv textarea {
+	margin:2px 0 5px 0;
+}
+#settingsdiv .footer .infotext .innertext {
+	margin:69px 0 0 215px;
+}
+#bbcodediv{
+	margin:3px 0 2px 0;
+}
+#chattext {
+	margin:15px 0 15px 0;
+}
+#calctable {
+	margin:-62px 0 0 10px;
+}
+#calctable img {
+	margin:3px 5px 0 15px;
+}
+/* ===================== initialising padding */
+#toolboxdiv select,
+#selmessage,
+#selreport {
+	padding:0px 5px 0px 5px;
+}
+#bbcodediv select,
+#chatdiv #smilie,
+#countdown .td_del,
+#countdown td,
+.topbox table td,
+.td_settingsinfo .infotext h4,
+#toolboxdiv,
+#insend {
+	padding:0;
+}
+table span#mmupdate {
+	color:#840000;
+	padding-left:8px;
+}
+.footer {
+	padding:5px 0 0 0;
+}
+.ToolBoxBrand {
+	padding:1px 0 0 0;
+}
+#nottext {
+	padding:3px 0 0 0;
+}
+#notshow {
+	padding:4px 0 0 0;
+}
+.td_settingsinfo .infotext h5 {
+	padding:0 0 2px 0;
+}
+#toolboxdiv button {
+	padding:0 2px 0px 2px;
+	/*padding:0 2px 2px 2px;*/
+}
+#runtimediv,
+#settingsdiv,
+#configdiv,
+#countdown,
+#newsdiv,
+#notesid,
+#multimarketdiv,
+#vilpointdiv,
+#chatdiv {
+	padding:5px 10px 5px 10px;
+}
+.td_settingsinfo .infotext {
+	padding:5px 5px 5px 10px;
+}
+#countdown #text {
+	padding:1px 0 1px 1px;
+}
+#countdown td.eventname {
+	padding:0 1px 0 1px;
+}
+#countdown .td_endtime {
+	padding:0 5px 0 7px;
+}
+#countdown .bullets {
+	padding:1px;
+}
+.message_number {
+	padding:37px 0 0 20px;
+}
+#showdiv .subject {
+	padding:0 0 15px 0;
+}
+/* ============= initialising border */
+#toolbox,
+#attack_info {
+	border:1px solid #222;
+}
+#toolboxdiv select,
+#toolboxdiv option,
+#toolboxdiv button,
+.topbox,
+.topbox .infotext,
+#newsdiv,
+#notesid,
+#chatdiv,
+#countdown,
+#vilpointdiv,
+#calctable,
+#multimarketdiv,
+#runtimediv,
+#selmessage,
+#selreport {
+	border:1px solid #666;
+}
+#vilpointdiv textarea {
+	border:1px solid #d6b371;
+}
+.move,
+#configdiv table td,
+td.td_settingshead,
+td.td_settingsopt,
+td.td_settingsinfo,
+.td_settingsinfo .infotext h5 {
+	border-bottom:1px dotted #840000;
+}
+.footer,
+#nottext {
+	border-top:1px dotted #840000;
+}
+.chattextodd,
+.chattexteven {
+	border-bottom: 1px solid #d6b371;
+}
+#notshow,
+#nottext,
+#settingsdiv .move .infotext,
+#configdiv .move .infotext,
+.move .infotext,
+#settingsdiv .footer,
+#configdiv .footer,
+#countdown table,
+.noborder td,
+td.noborder {
+	border:none;
+}
+#toolbox {
+	-moz-border-radius:5px;
+}
+#attack_info,
+.topbox,
+.topbox .infotext,
+#newsdiv,
+#runtimediv,
+#notesid,
+#chatdiv,
+#countdown,
+#vilpointdiv,
+#multimarketdiv,
+#calctable {
+	-moz-border-radius:10px;
+}
+#toolboxdiv button,
+#toolboxdiv select,
+#selmessage,
+#selreport {
+	-moz-border-radius:20px;
+}
+#bbcodediv select,
+#chatdiv #smilie {
+	-moz-border-radius:0;
+}
+/* ============= initialising text/fonts */
+
+.windowtitel {
+    font-family: "Gill sans", Arial, sans-serif;
+    font-size:13px;
+    font-variant:small-caps;
+}
+
+#toolboxdiv,
+#toolboxdiv td,
+#toolboxdiv th,
+#toolboxdiv h4,
+#toolboxdiv textarea,
+#toolboxdiv button,
+#toolboxdiv select {
+	font-family:Verdana;
+	font-weight:normal;
+	font-style:normal;
+	font-size:8pt;
+}
+#toolboxdiv h5,
+#countdown td,
+.infotext_onoff  {
+	font-family:Verdana;
+	font-weight:normal;
+	font-size:7pt;
+}
+table td.italic,
+table td .italic,
+.td_settingsinfo .infotext h5,
+.chattextdate {
+	font-style:italic;
+}
+table td.black,
+.td_settingsinfo .infotext p {
+	color:#000;
+}
+#newscontent .quote,
+#newscontent td .quote {
+    border: 1px solid #442E21;
+    font-size: 7pt;
+    background: white;
+    display: block;
+    padding: 3px 0 3px 5px;
+}
+table td .grey {
+    color:#666;
+}
+#newscontent .link,
+#newscontent td .link,
+#newscontent a,
+table span#mmupdate,
+.readmore,
+.move,
+.topbox td,
+#countdown td,
+.chattextuser,
+.infotext_onoff,
+#vilpointdiv span,
+#pnmessaver,
+#pnshow,
+#repshow,
+#repsaver,
+.message_number {
+	color: #840000;
+}
+#attack_info,
+#mmtarget input,
+#mmres input,
+#village1 input,
+#village2 input,
+#langselect,
+.td_settingsopt,
+th.th_settingshead,
+th.th_settingsinfo,
+.tablerow2,
+.topbox table th.active,
+.numbers,
+.bullets,
+#countdown input,
+#countdown .td_endtime,
+#countdown .td_del,
+#insend,
+.siedler,
+.center {
+	text-align:center;
+}
+#toolboxdiv,
+#countdown #text {
+	text-align:left;
+}
+.bbselect option,
+.siedler {
+	text-align:right;
+}
+.message_number {
+	text-transform:uppercase;
+}
+#newscontent,
+#notshow,
+#nottext {
+	line-height:11pt;
+}
+.chattextodd,
+.chattexteven {
+	line-height:18pt;
+}
+/* ============= initialising backgrounds */
+#toolboxdiv button,
+#toolboxdiv input,
+#toolboxdiv select,
+#toolboxdiv option,
+#calctable,
+#delrep,
+#delpn,
+#selmessage,
+#selreport { /*dunkelbraun*/
+	background-color: #d6b371;
+}
+#runtimediv,
+#countdown,
+#notesid,
+#chatdiv,
+#multimarketdiv,
+#vilpointsdiv,
+#toolboxdiv input,
+#vilpointdiv textarea { /*hellbraun*/
+    background-color:#f6dba4;
+}
+#toolboxdiv table,
+#toolboxdiv th,
+#toolboxdiv th.active,
+#toolboxdiv td,
+.noborder td,
+#notshow,
+#nottext {
+	background:none;
+}
+#toolbox,
+#bbcodediv select,
+#chatdiv #smilie,
+#toolboxdiv option,
+.move,
+#settingsdiv .footer .infotext {
+	background-repeat:no-repeat;
+}
+/* ============= initialising user interface */
+.readmore,
+#stop_sound,
+#toolbox img,
+#bbcodediv img,
+#toolboxdiv select,
+#toolboxdiv option,
+#toolboxdiv button,
+#pnmessaver,
+#pnshow,
+#repshow,
+#repsaver,
+#mmupdate,
+.cursorpointer {
+	cursor:pointer;
+}
+.move {
+	cursor:move;
+}

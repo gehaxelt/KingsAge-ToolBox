@@ -1,0 +1,28 @@
+@charset "UTF-8";
+/* ==============================================================================
+initialising toolbox fonts and images
+================================================================================= */
+
+/* ============= initialising images */
+#newsdiv,
+.topbox,
+#runtimediv,
+#countdown,
+#notesid,
+#chatdiv,
+#calctable,
+#multimarketdiv,
+#vilpointdiv,
+.td_settingsinfo .infotext {
+background-image: url(http://s5.kingsage.de/img/layout/lay_content.png); }
+
+#toolbox {
+background-image: url(/images/bg/toolbox_bg.png); }
+
+#settingsdiv .footer .infotext {
+	background-image: url(/images/logo.jpg); }
+
+.message_number {
+	background-repeat:no-repeat;
+	background-position:-5 0;
+	background-image:url(http://s5.kingsage.de/img/modern/card_mail_header.png); }

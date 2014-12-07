@@ -1,0 +1,383 @@
+@charset "UTF-8";
+/* ==============================================================================
+toolbox content
+================================================================================= */
+
+/******************************************************************/
+/****************************************************** container */
+#toolbox {
+	top:173px;
+	right:-415px;
+	height:23px;
+}
+#runtime_ico,
+#settingsico,
+#chatico,
+#headerico,
+#countdownico,
+#multimarketico,
+#notepadico {
+	list-style-type:none;
+	margin-top:1px;
+}
+/* --- initialising movable container */
+
+#settingsdiv,
+#configdiv,
+#notesid,
+#chatdiv,
+#newsdiv {
+	width:400px;
+}
+#multimarketdiv {
+	width:280px;
+}
+#runtimediv {
+	width:220px;
+}
+#countdown {
+	width:250px;
+}
+/* initialising inner container width */
+#toolboxdiv textarea,
+.move,
+.topbox table,
+#notshow,
+.footer {
+	width:100%;
+}
+/* fuer accordion */
+#settingsdiv {
+    /*height:499px; Achtung footer */
+}
+#settingsdiv table {
+    padding: 0 0.5em !important;
+    width:400px !important;
+    display:inline-block;
+}
+#settingsdiv table td {
+    padding-bottom: 1px !important;
+}
+#settingsdiv table td.td_settingsopt input {
+    width:10px;
+}
+#settingsdiv table th.th_first,
+#settingsdiv table td.td_first {
+    padding-top: 0.5em !important;
+}
+#settingsdiv button.configbutton {
+    margin-left:5px !important;
+}
+#settingsdiv table td.center {
+	width:400px;
+    text-align:center !important;
+}
+#settingsdiv table td #newsshow {
+    float:none;
+}
+#settingsdiv table td.imprint1 {
+    padding-left:40px;
+    padding-right:40px;
+}
+
+th.th_settingshead {
+    text-align:left;
+    padding-bottom:1em;
+}
+td.td_settingshead img {
+    float:left;
+    margin-right:3px;
+    height:21px;
+}
+td.td_settingshead .down {
+	display:inline-block;
+    margin-top:3px;
+}
+
+td.imprint2 a:hover {
+    text-decoration:underline;
+}
+#toolbox_buttons td.tablerow2 { /*Achtung*/
+    padding-right:10px !important;
+}
+#insend {
+    border: 1px solid #C4A76E;
+    margin-bottom: 1px;
+    margin-top: 1px;
+}
+/**********************************************************************************/
+/********************************************************* content ****************/
+
+/******************************************************************/
+/************************************************** toolbox menue */
+#toolbox img {
+	width:22px;
+	height:21px;
+}
+/******************************************************************/
+/********************************************************* header */
+.move {
+	height:25px;
+}
+/******************************************************************/
+/******************************************************* settings */
+.topbox table {
+	border-spacing: 0 2px;
+}
+.topbox table td {
+	height:24px;
+}
+#controlpanel .td_settingsopt input {
+	width:10px;
+}
+tbody, th.th_settingshead, td.td_settingshead {
+    width:100%;
+}
+/* ------------------- functions info */
+.td_settingsinfo .infotext {
+	min-width:190px;
+}
+/* -------------------------- imprint */
+#settingsdiv .footer {
+    position:relative;
+    padding-bottom: 10px;
+}
+.windowtitel {
+	position:relative;
+	left:63px;
+	float:left;
+	display:block;
+
+}
+#madeby .mailto {
+	position:relative;
+	left:170px;
+	top:20px;
+}
+/* ------------ settins form elements */
+#controlpanel select,
+#controlpanel #insend,
+#config,
+#newsshow,
+#genwmap,
+.configbutton {
+	min-width:80px;
+}
+.topbox input {
+	width:70px;
+}
+/******************************************************************/
+/******************************************************** notepad */
+#notshow,
+#nottext {
+	min-height:290px;
+}
+#bbcodediv{
+	width:400px;
+}
+#notepadchangemode {
+	width:46px;
+}
+/* ------------ notepad form elements */
+#bbcodediv select {
+	width:40px;
+	height:22px;
+}
+#bbcodediv option {
+	width:40px;
+	height:22px;
+}
+/******************************************************************/
+/*********************************************************** chat */
+#chattext {
+	line-height:12pt;
+	min-height:255px;
+}
+.smilie { /*smilie notshow output*/
+	height:15px;
+}
+.chattextpost {
+	height:15pt;
+}
+/* --------------- chat form elements */
+#smilie {
+	width:40px;
+	height:22px;
+	top:-2px;
+}
+#smilie option {
+	height:21px;
+}
+#chatsend {
+	width:70px;
+}
+/******************************************************************/
+/****************************************************** countdown */
+#countdown table {
+	border-spacing:0;
+}
+#countdown td {
+	height:25px;
+}
+#countdown td.eventname {
+	width:108px;
+}
+#countdown .td_endtime {
+	width:110px;
+}
+#countdown .td_del img {
+	width:8px;
+}
+/* ---------- countdown form elements */
+#chatinput {
+	width:245px;
+	height: 22px;
+}
+#countdown #text {
+	width:108px;
+}
+#countdown input {
+	width:17px;
+}
+/******************************************************************/
+/****************************************************** converter */
+/* ---------- converter form elements */
+#vilpointdiv textarea {
+	height:175px;
+}
+#vilpointdiv input {
+	height:18px;
+}
+/******************************************************************/
+/**************************************************** multimarket */
+#mmtarget {
+	width:70px;
+}
+#mmtarget input {
+	width:30px; 
+}
+#mmres input {
+	width:60px; 
+}
+#mmmain { 
+	min-height:200px;
+	max-height:400px; 
+	overflow:auto;
+}
+/******************************************************************/
+/********************************************* runtime calculator */
+#runtimediv {
+	min-height:200px; 
+	top:175px;
+}
+#village1 input,
+#village2 input {
+	width:30px; 
+}
+/*********************************************************** content elements END */
+/**********************************************************************************/
+
+/******************************************************************/
+/********************************** calculator (barracks recruit) */
+#calctable {
+	clear:both;
+	top:65px;
+	width:97.5%;
+}
+.needres {
+	width:200px;
+	padding-left:8px;
+}
+.ressis {
+	left:350px;
+	width:auto;
+}
+.siedler {
+	right:20px;
+	width:200px;
+	padding-right:10px;
+}
+.ressis img,
+.siedler img {
+	padding:0 5px;
+}
+/******************************************************************/
+/************************************************** message saver */
+#showdiv .subject,
+#showdiv .from,
+#showdiv .inbox,
+#showdiv .time {
+	top:-75px;
+}
+.message_number {
+	height:55px;
+	width:790px;
+}
+#showdiv .floatLeft {
+	height:20px !important;
+}
+/* ------ message saver form elements */
+#selmessage,
+#selreport {
+	min-width:80px;
+}
+/******************************************************************/
+/*************************************************** Attack Alarm */
+#attack_info {
+	background-color:#ff0000;
+	width:300px;
+	height:15px;
+	padding:5px 0 2px 2px;
+	top:175px;
+	margin:0 50%;
+	right:-150px;
+}
+#stop_sound {
+	display:block;
+	color:#fff;
+}
+#sound_opt { /* checkbox */
+	width: 10px;
+}
+/******************************************************************/
+/***************************************************** News Panel */
+#newsdiv {
+	min-height:20px; 
+	top:175px;
+}
+#newscontent {
+	min-height:200px; 
+	line-height:12pt;
+	overflow:auto;
+}
+.newstitel {
+	font-weight:bold;
+}
+.newsdate { /*  */
+	
+}
+#newsinfodiv {
+	position:absolute;
+	margin: auto 30%;
+	top:175px;
+	height:15px;
+	width:auto;
+	padding:5px 10px 5px 10px;
+	border:1px solid #666;
+	background-color:#f6dba4 !important;
+	text-align:center;
+}
+#newsinfodiv #title {
+	display:none;
+}
+#newsinfodiv #readnow {
+	margin-left:8px;
+	margin-right:3px;
+}
+#newsdiv .footer {
+	padding:5px 0 0;
+	margin-top:3px;
+}
+/* ==============================================================================
+toolbox CSS end
+================================================================================= */

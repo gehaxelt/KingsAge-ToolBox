@@ -1,0 +1,46 @@
+@charset "UTF-8";
+/* ==============================================================================
+initialising toolbox fonts and images
+================================================================================= */
+@font-face {
+    font-family: Bernhard Modern BT;
+    src: url(/fonts/Bernhard_Modern_BT.ttf);
+}
+@font-face {
+    font-family: Bradley Hand ITC TT;
+    src: url(/fonts/Bradley_Hand_ITC_TT.ttf);
+}
+/* ============= initialising images */
+.topbox,
+#countdown,
+#notesid,
+#chatdiv,
+#calctable,
+#vilpointdiv,
+.td_settingsinfo .infotext {
+background-image: url(http://s5.kingsage.de/img/layout/lay_content.png); }
+
+#toolbox {
+background-image: url(/images/bg/toolbox_bg.png); }
+
+#settingsdiv .footer .infotext {
+	background-image: url(/images/logo.jpg); }
+
+.message_number {
+	background-repeat:no-repeat;
+	background-position:-5 0;
+	background-image:url(http://s5.kingsage.de/img/modern/card_mail_header.png); }
+
+/*
+#notesid .move {
+background-image: url(/images/bg/notepadmove_bg.png); }
+
+#countdown .move {
+background-image: url(/images/bg/countdownmove_bg.png); }
+
+#chatdiv .move {
+background-image: url(/images/bg/chatmove_bg.png); }
+
+#settingsdiv .move {
+background-image: url(/images/bg/settingsmove_move_bg.png); }
+*/

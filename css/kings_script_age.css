@@ -1,0 +1,339 @@
+/* CSS Document */
+/*************************************************** Class Helper */
+.cursorpointer {
+	cursor:pointer;
+}
+.textcenter {
+	text-align:center;
+}
+.flatbuttons {
+	background-color:#D6B371;
+	border:1px solid #666666;
+	-moz-border-radius:15px;
+	-khtml-border-radius:45px;
+}
+/******************************************************************/
+/*************************************************** Settings Box */
+#settings {
+	cursor:pointer;
+}
+.topbox  {
+	visibility:visible;
+	z-index:1000;
+	background:#FFF url(http://s5.kingsage.de/img/layout/lay_content.png);
+	width:400px;
+	left:40%;
+	top:1px;
+	position:fixed;
+	padding:10px 10px 40px 10px;
+	border:1px solid #840000;
+	-moz-border-radius:10px;
+	-khtml-border-radius:30px;
+}
+.configbutton {
+	position:absolute;
+	bottom:10px;
+	right:10px;
+	border:1px solid #666;
+	-moz-border-radius:10px;
+	-khtml-border-radius:30px;
+	background-color:rgb(214, 179, 113);
+	cursor:pointer;
+}
+/******************************************************************/
+/******************************************************* Hide Top */
+#hidetop {
+	position:absolute;
+	top:125px;
+	left:45%;
+	border:1px solid #666;
+	-moz-border-radius:10px;
+	-khtml-border-radius:30px;
+	background-color:rgb(214, 179, 113);
+	cursor:pointer;
+}
+/******************************************************************/
+/******************************************************** Imprint */
+#madeby {
+	position:absolute;
+	left:40px;
+	bottom:10px;
+	font-size:9px;
+	line-height:9px;
+	color:#808080;
+}
+/******************************************************************/
+/******************************************************** Notepad */
+#notesid {
+	z-index:1000;
+	position:fixed;
+	visibility:hidden;
+	background:#FFF url(http://s5.kingsage.de/img/layout/lay_content.png);
+	width:398px;
+	height:423px;
+	border:1px solid #840000;
+	-moz-border-radius:10px;
+	-khtml-border-radius:30px;
+}
+#notemove {
+	left:3px;
+	top:0px;
+	height:20px;
+	width:393px;
+	position:absolute;
+	border-bottom:1px dotted #8c7241;
+	cursor:move;
+}
+#nottext {
+	margin:0 0 0 0;
+	padding:23px 8px 8px 8px;
+	line-height:14px;
+	width:395px;
+	height:380px;
+	background:transparent;
+	border:0;
+	-moz-border-radius:10px;
+}
+/******************************************************************/
+/*********************************************************** Chat */
+#chatdiv {
+	position:fixed;
+	top:1px;
+	margin:0;
+	padding:8px;
+	line-height:14px;
+	right:1px;
+	overflow:hidden;
+	visibility:hidden;
+	z-index:150;
+	height:340px;
+	background:#FFF url(http://s5.kingsage.de/img/layout/lay_content.png);
+	width:389px;
+	text-align:left;
+	border:1px solid #840000;
+	-moz-border-radius:10px;
+	-khtml-border-radius:30px;
+}
+#room {
+	background-color:rgb(214, 179, 113);
+	padding-right:5px;
+	padding-left:5px;
+	border:1px solid #666;
+	-moz-border-radius:10px;
+	-khtml-border-radius:30px;
+	position:absolute;
+	bottom:37px;
+	right:10px;
+	cursor:pointer;
+}
+#chatinput {
+	padding-right:5px;
+	padding-left:5px;
+	position:absolute;
+	bottom:36px;
+	width:230px;
+	-moz-border-radius:10px;
+	-khtml-border-radius:30px;
+}
+#chatsend {
+	position:absolute;
+	bottom:37px;
+	left:242px;
+	background-color:rgb(214, 179, 113);
+	border:1px solid #666;
+}
+#hidechat {
+	position:absolute;
+	bottom:10px;
+	left:10px;
+	background-color:rgb(214, 179, 113);
+	border:1px solid #666;
+}
+#haftung {
+	position:absolute;
+	right:10px;
+	bottom:12px;
+	font-size:8px;
+}
+/******************************************************************/
+/***************************************************** Calculator */
+#calctable {
+	display:table-cell;
+	clear:both;
+	top:0;
+	width:97.5%;
+	margin:-62px 0 0 10px;
+}
+#calctable img {
+	margin:3px 5px 0 15px;
+}
+#calctable.ressilist {
+	background:#FFF url(http://s5.kingsage.de/img/layout/lay_content.png);
+	-moz-border-radius:10px;
+	-khtml-border-radius:30px;
+	position:absolute;
+	top:65px;
+	height:27px;
+}
+.noborder td {
+	background:transparent;
+	border:none;
+}
+.needres {
+	position:absolute;
+	top:2px;
+	margin-left:5px;
+}
+.ressis {
+	position:absolute;
+	left:350px;
+}
+.siedler {
+	text-align:center;
+	position:absolute;
+	right:20px;
+}
+/******************************************************************/
+/************************************************** Message Saver */
+.subject {
+	left:145px;
+	position:absolute;
+	top:16px;
+}
+.time {
+	left:145px;
+	position:absolute;
+	top:47px;
+}
+.inbox {
+	left:145px;
+	position:absolute;
+	top:64px;
+}
+
+/******************************************************************/
+/****************************************************** Countdown */
+#countdown {
+	position:fixed;
+	top:0px;
+	left:40%;
+	width:230px;
+	border:1px solid #840000;
+	-moz-border-radius:10px;
+	-khtml-border-radius:30px;
+	z-index:1001;
+	background:#FFF url(http://s5.kingsage.de/img/layout/lay_content.png);
+}
+.countdownmove {
+	left:4px;
+	top:0px;
+	height:20px;
+	width:223px;
+	position:absolute;
+	border-bottom:1px dotted #8c7241;
+	cursor:move;
+	font-size:7pt;
+	color: #840000;
+}
+.countdownmove .info {
+	top:3px;
+	position:relative;
+}
+#countdown table {
+	margin-left:10px;
+	margin-right:10px;
+	width:210px;
+	border:none;
+	background:none;
+	font-size:7pt;
+	margin-bottom:40px;
+}
+#countdown table th { /* */
+	display:none;
+}
+#countdown table td { /* */
+	background:none;
+	font-size:7pt;
+	text-align:right;
+}
+#countdownops {
+	margin-top:25px;
+	margin-left:10px;
+	width:158px;
+
+}
+#countdownops input {
+	width:17px;
+	font-size:7pt;
+	text-align:right;
+}
+#countdownops #text {
+	margin-right:3px;
+	margin-bottom:3px;
+	width:93px;
+	text-align:left;
+}
+#countdownops #year {
+	width:27px;
+	display:none;/* */
+}
+#countdownops #month { /* */
+	display:none;
+}
+#countdownops #day { /* */
+	display:none;
+}
+#events table.borderlist td { /* */
+	padding:0;
+}
+#events td.eventname { /* */
+	text-align:left;
+	width:93px;
+}
+#events table td.td_endtime { /* */
+	width:60px;
+	padding-left:4px;
+}
+.numbers {
+	padding-left:3px
+}
+.bullets {
+	padding-left:2px
+}
+#events table td.td_del { /* */
+	padding-right:8px
+}
+#addbutton {
+	position:absolute;
+	top:25px;
+	right:10px;
+}
+#addhide {
+	position:absolute;
+	bottom:10px;
+	right:10px;
+}
+img#writerid {
+
+	width:22px;
+	height:21px;
+
+}
+#countclock {
+
+	top:174px;
+	left:50%;
+	width:22px;
+	height:21px;
+	position:absolute;
+}
+img#chatimg {
+
+
+	width:22px;
+	height:21px;
+
+}
+/******************************************************************/
+
+/* CSS Document End */
