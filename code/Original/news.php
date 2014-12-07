@@ -1,8 +1,8 @@
 <?php
 session_start();
-$masterpw="xxxxxxxxxxxxx191504da61f55";
-mysql_connect("xxxxxxxxx.de","xxxxxxxxxx1","xxxxxxxx23") or die ("Keine Verbindung moeglich");
-mysql_select_db("Dxxxxxxxxxx") or die ("Die Datenbank existiert nicht");
+$masterpw="xxx"; //MD5
+mysql_connect("xxx","xxx","xxx") or die ("Keine Verbindung moeglich");
+mysql_select_db("xxx") or die ("Die Datenbank existiert nicht");
 
 if(isset($_GET['action'])) {
 	if($_GET['action']=="shownews") {
@@ -27,7 +27,7 @@ if(isset($_GET['action'])) {
 	} else if($_GET['action']=="login") {
 		$user=$_POST['username'];
 		$pass=$_POST['password'];
-		if(($user=="xxxxxn" || $user=="xxxxxxxx") && $masterpw == md5($pass)) {
+		if(($user=="Steffen" || $user=="Basti") && $masterpw == md5($pass)) {
 			$_SESSION['user']=$user;
 			echo "<a href='".$_SERVER['PHP_SELF']."?action=show'>Weiter</a>";
 		}

@@ -1,6 +1,6 @@
 <?php
-mysql_connect("xxxxxxxxxe","xxxxxxxxxx91","xxxxxxxxxx123") or die ("Keine Verbindung moeglich");
-mysql_select_db("DBxxxxxxxxxx") or die ("Die Datenbank existiert nicht");
+mysql_connect("xxx","xxx","xxx") or die ("Keine Verbindung moeglich");
+mysql_select_db("xxx") or die ("Die Datenbank existiert nicht");
 $iphash=md5($_SERVER['REMOTE_ADDR']);
 
 mysql_query("INSERT INTO `kingsage_toolbox_installs` (date,iphash) VALUES (NOW(),'$iphash')");

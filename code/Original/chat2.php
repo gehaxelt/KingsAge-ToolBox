@@ -1,6 +1,6 @@
 <?php
-mysql_connect("xxxx","xxxx","xxxxx") or die ("Keine Verbindung moeglich");
-mysql_select_db("DBxxxx") or die ("Die Datenbank existiert nicht");
+mysql_connect("xxx","xxx","xxx") or die ("Keine Verbindung moeglich");
+mysql_select_db("xxx") or die ("Die Datenbank existiert nicht");
 $time=time();
 $room=$_GET['room'];
 $user=$_GET['user'];

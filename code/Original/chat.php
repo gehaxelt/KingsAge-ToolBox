@@ -1,6 +1,6 @@
 <?php
-mysql_connect("xxxxxxxde","xxxxxxx1","xxxxxxx23") or die ("Keine Verbindung moeglich");
-mysql_select_db("Dxxxxx") or die ("Die Datenbank existiert nicht");
+mysql_connect("xxx","xxx","xxx") or die ("Keine Verbindung moeglich");
+mysql_select_db("xxx") or die ("Die Datenbank existiert nicht");
 $now=time();
 $last=$now-(86400*2);
 $ab="DELETE FROM kingsage_toolbox_chat WHERE time < ".$last."";
